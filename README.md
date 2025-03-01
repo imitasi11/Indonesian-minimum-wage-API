@@ -62,13 +62,13 @@ Example Response:
 #### 2. Get minimum wage list of Districts/Cities(UMK) in a Certain Province
 
 ```
-GET https://imitasi11.github.io/Indonesian-minimum-wage-API/static/api/regencies/{provinceId}.json
+GET https://imitasi11.github.io/Indonesian-minimum-wage-API/static/regencies/{provinceId}.json
 ```
 
 Example to get a minimum wage list of districts/cities in Aceh province (ID = 1)
 
 ```
-GET https://imitasi11.github.io/Indonesian-minimum-wage-API/static/api/regencies/1.json
+GET https://imitasi11.github.io/Indonesian-minimum-wage-API/static/regencies/1.json
 ```
 
 Example Response:
@@ -113,7 +113,7 @@ Example Response:
 
 
 ```
-GET https://imitasi11.github.io/Indonesian-minimum-wage-API/static/api/regency/{regencyId}.json
+GET https://imitasi11.github.io/Indonesian-minimum-wage-API/static/regency/{regencyId}.json
 ```
 
 Example Response:
