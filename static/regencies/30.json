@@ -1,0 +1,56 @@
+[
+    {
+        "id": 3001,
+        "name": "Kabupaten Mamuju",
+        "province_id": 30,
+        "province": "Sulawesi Barat",
+        "data": {
+            "2025": 3122680
+        }
+    },
+    {
+        "id": 3002,
+        "name": "Kabupaten Mamuju Tengah",
+        "province_id": 30,
+        "province": "Sulawesi Barat",
+        "data": {
+            "2025": 3104430
+        }
+    },
+    {
+        "id": 3003,
+        "name": "Kabupaten Mamuju Utara",
+        "province_id": 30,
+        "province": "Sulawesi Barat",
+        "data": {
+            "2025": 3104430
+        }
+    },
+    {
+        "id": 3004,
+        "name": "Kabupaten Polewali Mandar",
+        "province_id": 30,
+        "province": "Sulawesi Barat",
+        "data": {
+            "2025": 3104430
+        }
+    },
+    {
+        "id": 3005,
+        "name": "Kabupaten Majene",
+        "province_id": 30,
+        "province": "Sulawesi Barat",
+        "data": {
+            "2025": 3104430
+        }
+    },
+    {
+        "id": 3006,
+        "name": "Kabupaten Mamasa",
+        "province_id": 30,
+        "province": "Sulawesi Barat",
+        "data": {
+            "2025": 3104430
+        }
+    }
+]

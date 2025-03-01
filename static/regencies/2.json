@@ -1,0 +1,332 @@
+[
+    {
+        "id": 201,
+        "name": "Medan",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3769082,
+            "2025": 4014072
+        }
+    },
+    {
+        "id": 202,
+        "name": "Mandailing Natal",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2911736,
+            "2025": 3100999
+        }
+    },
+    {
+        "id": 203,
+        "name": "Tapanuli Selatan",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3105469,
+            "2025": 3307324
+        }
+    },
+    {
+        "id": 204,
+        "name": "Tapanuli Tengah",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3044435,
+            "2025": 3242323
+        }
+    },
+    {
+        "id": 205,
+        "name": "Tapanuli Utara",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2833474,
+            "2025": 3017649
+        }
+    },
+    {
+        "id": 206,
+        "name": "Toba",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2959020,
+            "2025": 3151356
+        }
+    },
+    {
+        "id": 207,
+        "name": "Labuhanbatu",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3228339,
+            "2025": 3438181
+        }
+    },
+    {
+        "id": 208,
+        "name": "Asahan",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3066580,
+            "2025": 3265908
+        }
+    },
+    {
+        "id": 209,
+        "name": "Simalungun",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2900330,
+            "2025": 3088851
+        }
+    },
+    {
+        "id": 210,
+        "name": "Karo",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3358951,
+            "2025": 3577282
+        }
+    },
+    {
+        "id": 211,
+        "name": "Deli Serdang",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3505076,
+            "2025": 3732906
+        }
+    },
+    {
+        "id": 212,
+        "name": "Langkat",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2943343,
+            "2025": 3134660
+        }
+    },
+    {
+        "id": 213,
+        "name": "Serdang Bedagai",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3111250,
+            "2025": 3313500
+        }
+    },
+    {
+        "id": 214,
+        "name": "Batubara",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3451671,
+            "2025": 3676000
+        }
+    },
+    {
+        "id": 215,
+        "name": "Padang Lawas",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3000855,
+            "2025": 3195910
+        }
+    },
+    {
+        "id": 216,
+        "name": "Labuhanbatu Selatan",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3197168,
+            "2025": 3404984
+        }
+    },
+    {
+        "id": 217,
+        "name": "Labuhanbatu Utara",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3124527,
+            "2025": 3327621
+        }
+    },
+    {
+        "id": 218,
+        "name": "Sibolga",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3211031,
+            "2025": 3419748
+        }
+    },
+    {
+        "id": 219,
+        "name": "Tanjung Balai",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3046579,
+            "2025": 3244606
+        }
+    },
+    {
+        "id": 220,
+        "name": "Tebing Tinggi",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2822726,
+            "2025": 3006203
+        }
+    },
+    {
+        "id": 221,
+        "name": "Binjai",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2887667,
+            "2025": 3075365
+        }
+    },
+    {
+        "id": 222,
+        "name": "Padang Sidempuan",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2974869,
+            "2025": 3168235
+        }
+    },
+    {
+        "id": 223,
+        "name": "Dairi",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    },
+    {
+        "id": 224,
+        "name": "Nias Selatan",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    },
+    {
+        "id": 225,
+        "name": "Humbang Hasundutan",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    },
+    {
+        "id": 226,
+        "name": "Samosir",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    },
+    {
+        "id": 227,
+        "name": "Nias Utara",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    },
+    {
+        "id": 228,
+        "name": "Nias Barat",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    },
+    {
+        "id": 229,
+        "name": "Padang Lawas Utara",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    },
+    {
+        "id": 230,
+        "name": "Nias",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    },
+    {
+        "id": 231,
+        "name": "Pakpak Bharat",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    },
+    {
+        "id": 232,
+        "name": "Pematangsiantar",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    },
+    {
+        "id": 233,
+        "name": "Gunungsitoli",
+        "province_id": 2,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    }
+]

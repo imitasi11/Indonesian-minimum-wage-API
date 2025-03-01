@@ -1,0 +1,10 @@
+{
+    "id": 201,
+    "name": "Medan",
+    "province_id": 2,
+    "province": "Sumatera Utara",
+    "data": {
+        "2024": 3769082,
+        "2025": 4014072
+    }
+}

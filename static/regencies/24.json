@@ -1,0 +1,57 @@
+[
+    {
+        "id": 2401,
+        "name": "Kota Tarakan",
+        "province_id": 24,
+        "province": "Kalimantan Utara",
+        "data": {
+            "2023": 4055356.62,
+            "2024": 4188174,
+            "2025": 4460405
+        }
+    },
+    {
+        "id": 2402,
+        "name": "Kabupaten Malinau",
+        "province_id": 24,
+        "province": "Kalimantan Utara",
+        "data": {
+            "2023": 3494498.55,
+            "2024": 3607100,
+            "2025": 3841561
+        }
+    },
+    {
+        "id": 2403,
+        "name": "Kabupaten Bulungan",
+        "province_id": 24,
+        "province": "Kalimantan Utara",
+        "data": {
+            "2023": 3362895.51,
+            "2024": 3480000,
+            "2025": 3820000
+        }
+    },
+    {
+        "id": 2404,
+        "name": "Kabupaten Nunukan",
+        "province_id": 24,
+        "province": "Kalimantan Utara",
+        "data": {
+            "2023": 3319134,
+            "2024": 3429960,
+            "2025": 3652907.4
+        }
+    },
+    {
+        "id": 2405,
+        "name": "Kabupaten Tana Tidung",
+        "province_id": 24,
+        "province": "Kalimantan Utara",
+        "data": {
+            "2023": 3370205,
+            "2024": 3476906,
+            "2025": 3824598
+        }
+    }
+]

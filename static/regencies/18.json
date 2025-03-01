@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1801,
+        "name": "Kota Mataram",
+        "province_id": 18,
+        "province": "Nusa Tenggara Barat",
+        "data": {
+            "2024": 2685089,
+            "2025": 2859620
+        }
+    },
+    {
+        "id": 1802,
+        "name": "Kabupaten Lombok Barat",
+        "province_id": 18,
+        "province": "Nusa Tenggara Barat",
+        "data": {
+            "2024": 2444067,
+            "2025": 2602931
+        }
+    },
+    {
+        "id": 1803,
+        "name": "Kabupaten Lombok Tengah",
+        "province_id": 18,
+        "province": "Nusa Tenggara Barat",
+        "data": {
+            "2024": 2450968,
+            "2025": 2610281
+        }
+    },
+    {
+        "id": 1804,
+        "name": "Kabupaten Lombok Timur",
+        "province_id": 18,
+        "province": "Nusa Tenggara Barat",
+        "data": {
+            "2024": 2449497,
+            "2025": 2608714
+        }
+    },
+    {
+        "id": 1805,
+        "name": "Kabupaten Lombok Utara",
+        "province_id": 18,
+        "province": "Nusa Tenggara Barat",
+        "data": {
+            "2024": 2450541,
+            "2025": 2609826
+        }
+    },
+    {
+        "id": 1806,
+        "name": "Kabupaten Sumbawa Barat",
+        "province_id": 18,
+        "province": "Nusa Tenggara Barat",
+        "data": {
+            "2024": 2650862,
+            "2025": 2823168
+        }
+    },
+    {
+        "id": 1807,
+        "name": "Kabupaten Sumbawa",
+        "province_id": 18,
+        "province": "Nusa Tenggara Barat",
+        "data": {
+            "2024": 2467237,
+            "2025": 2627607
+        }
+    },
+    {
+        "id": 1808,
+        "name": "Kabupaten Dompu",
+        "province_id": 18,
+        "province": "Nusa Tenggara Barat",
+        "data": {
+            "2024": 2466699,
+            "2025": 2605734
+        }
+    },
+    {
+        "id": 1809,
+        "name": "Kabupaten Bima",
+        "province_id": 18,
+        "province": "Nusa Tenggara Barat",
+        "data": {
+            "2024": 2476195,
+            "2025": 2637147
+        }
+    },
+    {
+        "id": 1810,
+        "name": "Kota Bima",
+        "province_id": 18,
+        "province": "Nusa Tenggara Barat",
+        "data": {
+            "2024": 2500206,
+            "2025": 2662719
+        }
+    }
+]

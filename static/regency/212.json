@@ -1,0 +1,10 @@
+{
+    "id": 212,
+    "name": "Langkat",
+    "province_id": 2,
+    "province": "Sumatera Utara",
+    "data": {
+        "2024": 2943343,
+        "2025": 3134660
+    }
+}

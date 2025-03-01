@@ -1,0 +1,102 @@
+[
+    {
+        "id": 2301,
+        "name": "Samarinda",
+        "province_id": 23,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3497124.13,
+            "2025": 3724437.2
+        }
+    },
+    {
+        "id": 2302,
+        "name": "Balikpapan",
+        "province_id": 23,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3475595,
+            "2025": 3701508.68
+        }
+    },
+    {
+        "id": 2303,
+        "name": "Penajam Paser Utara",
+        "province_id": 23,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3715817.74,
+            "2025": 3957345.89
+        }
+    },
+    {
+        "id": 2304,
+        "name": "Kutai Kartanegara",
+        "province_id": 23,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3536506.28,
+            "2025": 3766379.19
+        }
+    },
+    {
+        "id": 2305,
+        "name": "Paser",
+        "province_id": 23,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3372362,
+            "2025": 3591565.53
+        }
+    },
+    {
+        "id": 2306,
+        "name": "Berau",
+        "province_id": 23,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3832297,
+            "2025": 4081376.31
+        }
+    },
+    {
+        "id": 2307,
+        "name": "Bontang",
+        "province_id": 23,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3549307.67,
+            "2025": 3780012.66
+        }
+    },
+    {
+        "id": 2308,
+        "name": "Kutai Timur",
+        "province_id": 23,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3711017.82,
+            "2025": 3743820
+        }
+    },
+    {
+        "id": 2309,
+        "name": "Kutai Barat",
+        "province_id": 23,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3711017,
+            "2025": 3952233.98
+        }
+    },
+    {
+        "id": 2310,
+        "name": "Mahakam Ulu",
+        "province_id": 23,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3711017,
+            "2025": 3953233
+        }
+    }
+]

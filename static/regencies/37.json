@@ -1,0 +1,38 @@
+[
+    {
+        "id": 3701,
+        "name": "Kabupaten Asmat",
+        "province_id": 37,
+        "province": "Papua Selatan",
+        "data": {
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 3702,
+        "name": "Kabupaten Boven Digoel",
+        "province_id": 37,
+        "province": "Papua Selatan",
+        "data": {
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 3703,
+        "name": "Kabupaten Mappi",
+        "province_id": 37,
+        "province": "Papua Selatan",
+        "data": {
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 3704,
+        "name": "Kabupaten Merauke",
+        "province_id": 37,
+        "province": "Papua Selatan",
+        "data": {
+            "2025": 4285850
+        }
+    }
+]

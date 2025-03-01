@@ -1,0 +1,72 @@
+[
+    {
+        "id": 901,
+        "name": "Kabupaten Bangka",
+        "province_id": 9,
+        "province": "Bangka Belitung",
+        "data": {
+            "2024": 3640000,
+            "2025": 3876600
+        }
+    },
+    {
+        "id": 902,
+        "name": "Kabupaten Bangka Barat",
+        "province_id": 9,
+        "province": "Bangka Belitung",
+        "data": {
+            "2024": 3640000,
+            "2025": 3876600
+        }
+    },
+    {
+        "id": 903,
+        "name": "Kabupaten Bangka Selatan",
+        "province_id": 9,
+        "province": "Bangka Belitung",
+        "data": {
+            "2024": 3640000,
+            "2025": 3876600
+        }
+    },
+    {
+        "id": 904,
+        "name": "Kabupaten Bangka Tengah",
+        "province_id": 9,
+        "province": "Bangka Belitung",
+        "data": {
+            "2024": 3640000,
+            "2025": 3876600
+        }
+    },
+    {
+        "id": 905,
+        "name": "Kabupaten Belitung",
+        "province_id": 9,
+        "province": "Bangka Belitung",
+        "data": {
+            "2024": 3640000,
+            "2025": 3876600
+        }
+    },
+    {
+        "id": 906,
+        "name": "Kabupaten Belitung Timur",
+        "province_id": 9,
+        "province": "Bangka Belitung",
+        "data": {
+            "2024": 3640000,
+            "2025": 3876600
+        }
+    },
+    {
+        "id": 907,
+        "name": "Kota Pangkalpinan",
+        "province_id": 9,
+        "province": "Bangka Belitung",
+        "data": {
+            "2024": 3640000,
+            "2025": 3876600
+        }
+    }
+]

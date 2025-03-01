@@ -1,0 +1,112 @@
+[
+    {
+        "id": 701,
+        "name": "Bengkulu Selatan",
+        "province_id": 7,
+        "province": "Bengkulu",
+        "data": {
+            "2023": 2418280,
+            "2024": 2507079,
+            "2025": 2670039
+        }
+    },
+    {
+        "id": 702,
+        "name": "Rejang Lebong",
+        "province_id": 7,
+        "province": "Bengkulu",
+        "data": {
+            "2023": 2418280,
+            "2024": 2507079,
+            "2025": 2670039
+        }
+    },
+    {
+        "id": 703,
+        "name": "Bengkulu Utara",
+        "province_id": 7,
+        "province": "Bengkulu",
+        "data": {
+            "2023": 2418280,
+            "2024": 2586529,
+            "2025": 2754653
+        }
+    },
+    {
+        "id": 704,
+        "name": "Kaur",
+        "province_id": 7,
+        "province": "Bengkulu",
+        "data": {
+            "2023": 2418280,
+            "2024": 2507079,
+            "2025": 2670039
+        }
+    },
+    {
+        "id": 705,
+        "name": "Seluma",
+        "province_id": 7,
+        "province": "Bengkulu",
+        "data": {
+            "2023": 2418280,
+            "2024": 2507079,
+            "2025": 2670039
+        }
+    },
+    {
+        "id": 706,
+        "name": "Mukomuko",
+        "province_id": 7,
+        "province": "Bengkulu",
+        "data": {
+            "2023": 2715839,
+            "2024": 2865839,
+            "2025": 3052118
+        }
+    },
+    {
+        "id": 707,
+        "name": "Lebong",
+        "province_id": 7,
+        "province": "Bengkulu",
+        "data": {
+            "2023": 2418280,
+            "2024": 2507079,
+            "2025": 2670039
+        }
+    },
+    {
+        "id": 708,
+        "name": "Kepahiang",
+        "province_id": 7,
+        "province": "Bengkulu",
+        "data": {
+            "2023": 2418280,
+            "2024": 2507079,
+            "2025": 2670039
+        }
+    },
+    {
+        "id": 709,
+        "name": "Bengkulu Tengah",
+        "province_id": 7,
+        "province": "Bengkulu",
+        "data": {
+            "2023": 2494915,
+            "2024": 2644915,
+            "2025": 2816835
+        }
+    },
+    {
+        "id": 710,
+        "name": "Kota Bengkulu",
+        "province_id": 7,
+        "province": "Bengkulu",
+        "data": {
+            "2023": 2601802,
+            "2024": 2751802,
+            "2025": 2930669
+        }
+    }
+]

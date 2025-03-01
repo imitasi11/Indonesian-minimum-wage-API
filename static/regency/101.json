@@ -1,0 +1,10 @@
+{
+    "id": 101,
+    "name": "Banda Aceh",
+    "province_id": 1,
+    "province": "Aceh",
+    "data": {
+        "2024": 3540555,
+        "2025": 3685616
+    }
+}

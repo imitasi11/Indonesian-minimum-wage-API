@@ -1,0 +1,56 @@
+[
+    {
+        "id": 2901,
+        "name": "Kota Gorontalo",
+        "province_id": 29,
+        "province": "Gorontalo",
+        "data": {
+            "2025": 3221731
+        }
+    },
+    {
+        "id": 2902,
+        "name": "Kabupaten Boalemo",
+        "province_id": 29,
+        "province": "Gorontalo",
+        "data": {
+            "2025": 3221731
+        }
+    },
+    {
+        "id": 2903,
+        "name": "Kabupaten Bone Bolango",
+        "province_id": 29,
+        "province": "Gorontalo",
+        "data": {
+            "2025": 3221731
+        }
+    },
+    {
+        "id": 2904,
+        "name": "Kabupaten Gorontalo",
+        "province_id": 29,
+        "province": "Gorontalo",
+        "data": {
+            "2025": 3221731
+        }
+    },
+    {
+        "id": 2905,
+        "name": "Kabupaten Gorontalo Utara",
+        "province_id": 29,
+        "province": "Gorontalo",
+        "data": {
+            "2025": 3221731
+        }
+    },
+    {
+        "id": 2906,
+        "name": "Kabupaten Pohuwato",
+        "province_id": 29,
+        "province": "Gorontalo",
+        "data": {
+            "2025": 3221731
+        }
+    }
+]

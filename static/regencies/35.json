@@ -1,0 +1,82 @@
+[
+    {
+        "id": 3501,
+        "name": "Kabupaten Mimika",
+        "province_id": 35,
+        "province": "Papua Tengah",
+        "data": {
+            "2024": 4700168,
+            "2025": 5005678
+        }
+    },
+    {
+        "id": 3502,
+        "name": "Kabupaten Nabire",
+        "province_id": 35,
+        "province": "Papua Tengah",
+        "data": {
+            "2024": "-",
+            "2025": 4285848
+        }
+    },
+    {
+        "id": 3503,
+        "name": "Kabupaten Puncak Jaya",
+        "province_id": 35,
+        "province": "Papua Tengah",
+        "data": {
+            "2024": "-",
+            "2025": 4285848
+        }
+    },
+    {
+        "id": 3504,
+        "name": "Kabupaten Paniai",
+        "province_id": 35,
+        "province": "Papua Tengah",
+        "data": {
+            "2024": "-",
+            "2025": 4285848
+        }
+    },
+    {
+        "id": 3505,
+        "name": "Kabupaten Puncak",
+        "province_id": 35,
+        "province": "Papua Tengah",
+        "data": {
+            "2024": "-",
+            "2025": 4285848
+        }
+    },
+    {
+        "id": 3506,
+        "name": "Kabupaten Deiyai",
+        "province_id": 35,
+        "province": "Papua Tengah",
+        "data": {
+            "2024": "-",
+            "2025": 4285848
+        }
+    },
+    {
+        "id": 3507,
+        "name": "Kabupaten Dogiyai",
+        "province_id": 35,
+        "province": "Papua Tengah",
+        "data": {
+            "2024": "-",
+            "2025": 4285848
+        }
+    },
+    {
+        "id": 3508,
+        "name": "Kabupaten Intan Jaya",
+        "province_id": 35,
+        "province": "Papua Tengah",
+        "data": {
+            "2024": "-",
+            "2025": 4285848
+        }
+    }
+]

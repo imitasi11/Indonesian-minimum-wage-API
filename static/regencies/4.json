@@ -1,0 +1,122 @@
+[
+    {
+        "id": 401,
+        "name": "Pekanbaru",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3451584,
+            "2025": 3675937.97
+        }
+    },
+    {
+        "id": 402,
+        "name": "Dumai",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3867295,
+            "2025": 4118669.61
+        }
+    },
+    {
+        "id": 403,
+        "name": "Rokan Hulu",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3360920,
+            "2025": 3579380.61
+        }
+    },
+    {
+        "id": 404,
+        "name": "Rokan Hilir",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3332223,
+            "2025": 3548818.47
+        }
+    },
+    {
+        "id": 405,
+        "name": "Kampar",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3412764,
+            "2025": 3634593.72
+        }
+    },
+    {
+        "id": 406,
+        "name": "Bengkalis",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3693540,
+            "2025": 3933620.36
+        }
+    },
+    {
+        "id": 407,
+        "name": "Siak",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3465930,
+            "2025": 3691216.25
+        }
+    },
+    {
+        "id": 408,
+        "name": "Pelalawan",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3395359,
+            "2025": 3616057.37
+        }
+    },
+    {
+        "id": 409,
+        "name": "Kuantan Singingi",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3467414,
+            "2025": 3692796.76
+        }
+    },
+    {
+        "id": 410,
+        "name": "Indragiri Hulu",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3477188,
+            "2025": 3703206.19
+        }
+    },
+    {
+        "id": 411,
+        "name": "Indragiri Hilir",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3294625,
+            "2025": 3508776
+        }
+    },
+    {
+        "id": 412,
+        "name": "Kepulauan Meranti",
+        "province_id": 4,
+        "province": "Riau",
+        "data": {
+            "2024": 3294625,
+            "2025": 3508776
+        }
+    }
+]

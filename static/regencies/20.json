@@ -1,0 +1,142 @@
+[
+    {
+        "id": 2001,
+        "name": "Kabupaten Mempawah",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2702616,
+            "2025": 2878286
+        }
+    },
+    {
+        "id": 2002,
+        "name": "Kabupaten Landak",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2868456,
+            "2025": 3054906
+        }
+    },
+    {
+        "id": 2003,
+        "name": "Kota Pontianak",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2840206,
+            "2025": 3024820
+        }
+    },
+    {
+        "id": 2004,
+        "name": "Kabupaten Kayong Utara",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 3024184,
+            "2025": 3220756
+        }
+    },
+    {
+        "id": 2005,
+        "name": "Kabupaten Kubu Raya",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2702616,
+            "2025": 2878286
+        }
+    },
+    {
+        "id": 2006,
+        "name": "Kabupaten Sambas",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2831473,
+            "2025": 3015520
+        }
+    },
+    {
+        "id": 2007,
+        "name": "Kabupaten Bengkayang",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2875361,
+            "2025": 3062260
+        }
+    },
+    {
+        "id": 2008,
+        "name": "Kabupaten Ketapang",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 3188983,
+            "2025": 3396267
+        }
+    },
+    {
+        "id": 2009,
+        "name": "Kabupaten Sanggau",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2789563,
+            "2025": 2970885
+        }
+    },
+    {
+        "id": 2010,
+        "name": "Kabupaten Sekadau",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2702616,
+            "2025": 2878286
+        }
+    },
+    {
+        "id": 2011,
+        "name": "Kabupaten Sintang",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2854277,
+            "2025": 3039805
+        }
+    },
+    {
+        "id": 2012,
+        "name": "Kabupaten Kapuas Hulu",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2746009,
+            "2025": 2924501
+        }
+    },
+    {
+        "id": 2013,
+        "name": "Kabupaten Melawi",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2773438,
+            "2025": 2953711
+        }
+    },
+    {
+        "id": 2014,
+        "name": "Kota Singkawang",
+        "province_id": 20,
+        "province": "Kalimantan Barat",
+        "data": {
+            "2024": 2886916,
+            "2025": 3074566
+        }
+    }
+]

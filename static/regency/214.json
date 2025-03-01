@@ -1,0 +1,10 @@
+{
+    "id": 214,
+    "name": "Batubara",
+    "province_id": 2,
+    "province": "Sumatera Utara",
+    "data": {
+        "2024": 3451671,
+        "2025": 3676000
+    }
+}

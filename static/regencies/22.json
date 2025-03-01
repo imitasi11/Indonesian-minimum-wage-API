@@ -1,0 +1,145 @@
+[
+    {
+        "id": 2201,
+        "name": "Banjarbaru",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3149977,
+            "2024": 3282812,
+            "2025": 3496189
+        }
+    },
+    {
+        "id": 2202,
+        "name": "Banjarmasin",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3200035,
+            "2024": 3379513,
+            "2025": 3599181
+        }
+    },
+    {
+        "id": 2203,
+        "name": "Kotabaru",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3293371,
+            "2024": 3420661,
+            "2025": 3642003
+        }
+    },
+    {
+        "id": 2204,
+        "name": "Tabalong",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3238555,
+            "2024": 3372955,
+            "2025": 3592138
+        }
+    },
+    {
+        "id": 2205,
+        "name": "Tanah Bumbu",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3151028,
+            "2024": 3286538,
+            "2025": 3500156
+        }
+    },
+    {
+        "id": 2206,
+        "name": "Tapin",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3149977,
+            "2024": 3282812,
+            "2025": 3496189
+        }
+    },
+    {
+        "id": 2207,
+        "name": "Tanah Laut",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3149977,
+            "2024": 3282812,
+            "2025": 3496189
+        }
+    },
+    {
+        "id": 2208,
+        "name": "Hulu Sungai Selatan",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3150030,
+            "2024": 3282812,
+            "2025": 3496189
+        }
+    },
+    {
+        "id": 2209,
+        "name": "Hulu Sungai Tengah",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3149977,
+            "2024": 3282812,
+            "2025": 3496189
+        }
+    },
+    {
+        "id": 2210,
+        "name": "Hulu Sungai Utara",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3149977,
+            "2024": 3282812,
+            "2025": 3496189
+        }
+    },
+    {
+        "id": 2211,
+        "name": "Balangan",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3149977,
+            "2024": 3282812,
+            "2025": 3496189
+        }
+    },
+    {
+        "id": 2212,
+        "name": "Banjar",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3149977,
+            "2024": 3282812,
+            "2025": 3496189
+        }
+    },
+    {
+        "id": 2213,
+        "name": "Barito Kuala",
+        "province_id": 22,
+        "province": "Kalimantan Selatan",
+        "data": {
+            "2023": 3149977,
+            "2024": 3282812,
+            "2025": 3496189
+        }
+    }
+]

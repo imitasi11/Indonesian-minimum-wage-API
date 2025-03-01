@@ -1,0 +1,112 @@
+[
+    {
+        "id": 501,
+        "name": "Kota Jambi",
+        "province_id": 5,
+        "province": "Jambi",
+        "data": {
+            "2024": 3387064,
+            "2025": 3607223
+        }
+    },
+    {
+        "id": 502,
+        "name": "Tanjung Jabung Barat",
+        "province_id": 5,
+        "province": "Jambi",
+        "data": {
+            "2024": 3126381,
+            "2025": 3329595
+        }
+    },
+    {
+        "id": 503,
+        "name": "Muaro Jambi",
+        "province_id": 5,
+        "province": "Jambi",
+        "data": {
+            "2024": 3172413,
+            "2025": 3378620
+        }
+    },
+    {
+        "id": 504,
+        "name": "Sarolangun",
+        "province_id": 5,
+        "province": "Jambi",
+        "data": {
+            "2024": 3069498,
+            "2025": 3322266
+        }
+    },
+    {
+        "id": 505,
+        "name": "Kota Sungai Penuh",
+        "province_id": 5,
+        "province": "Jambi",
+        "data": {
+            "2024": 3037121,
+            "2025": 3234535
+        }
+    },
+    {
+        "id": 506,
+        "name": "Kerinci",
+        "province_id": 5,
+        "province": "Jambi",
+        "data": {
+            "2024": 3037121,
+            "2025": 3234535
+        }
+    },
+    {
+        "id": 507,
+        "name": "Bungo",
+        "province_id": 5,
+        "province": "Jambi",
+        "data": {
+            "2024": 3037121,
+            "2025": 3234535
+        }
+    },
+    {
+        "id": 508,
+        "name": "Merangin",
+        "province_id": 5,
+        "province": "Jambi",
+        "data": {
+            "2024": 3037121,
+            "2025": 3234535
+        }
+    },
+    {
+        "id": 509,
+        "name": "Batanghari",
+        "province_id": 5,
+        "province": "Jambi",
+        "data": {
+            "2024": 3037121,
+            "2025": 3234535
+        }
+    },
+    {
+        "id": 510,
+        "name": "Tanjung Jabung Timur",
+        "province_id": 5,
+        "province": "Jambi",
+        "data": {
+            "2024": 3037121,
+            "2025": 3234535
+        }
+    },
+    {
+        "id": 511,
+        "name": "Tebo",
+        "province_id": 5,
+        "province": "Jambi",
+        "data": {
+            "2024": 3037121,
+            "2025": 3234535
+        }
+    }
+]

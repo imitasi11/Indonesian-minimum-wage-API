@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1101,
+        "name": "Kepulauan Seribu",
+        "province_id": 11,
+        "province": "DKI Jakarta",
+        "data": {
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
+        }
+    },
+    {
+        "id": 1102,
+        "name": "Jakarta Barat",
+        "province_id": 11,
+        "province": "DKI Jakarta",
+        "data": {
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
+        }
+    },
+    {
+        "id": 1103,
+        "name": "Jakarta Pusat",
+        "province_id": 11,
+        "province": "DKI Jakarta",
+        "data": {
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
+        }
+    },
+    {
+        "id": 1104,
+        "name": "Jakarta Selatan",
+        "province_id": 11,
+        "province": "DKI Jakarta",
+        "data": {
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
+        }
+    },
+    {
+        "id": 1105,
+        "name": "Jakarta Timur",
+        "province_id": 11,
+        "province": "DKI Jakarta",
+        "data": {
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
+        }
+    },
+    {
+        "id": 1106,
+        "name": "Jakarta Utara",
+        "province_id": 11,
+        "province": "DKI Jakarta",
+        "data": {
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
+        }
+    }
+]

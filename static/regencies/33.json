@@ -1,0 +1,122 @@
+[
+    {
+        "id": 3301,
+        "name": "Kabupaten Fak-fak",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 3302,
+        "name": "Kabupaten Kaimana",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 3303,
+        "name": "Kabupaten Teluk Wondama",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 3304,
+        "name": "Kabupaten Teluk Bintuni",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3282000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 3305,
+        "name": "Kabupaten Manokwari",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 3306,
+        "name": "Kabupaten Sorong Selatan",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 3307,
+        "name": "Kabupaten Sorong",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 3308,
+        "name": "Kabupaten Raja Ampat",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 3309,
+        "name": "Kabupaten Tambrauw",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 3310,
+        "name": "Kabupaten Pegunungan Arfak",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 3311,
+        "name": "Kabupaten Manokwari Selatan",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 3312,
+        "name": "Kota Sorong",
+        "province_id": 33,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    }
+]

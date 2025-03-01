@@ -1,0 +1,172 @@
+[
+    {
+        "id": 601,
+        "name": "Kota Palembang",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3677591,
+            "2025": 3916635
+        }
+    },
+    {
+        "id": 602,
+        "name": "Muara Enim",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3538556,
+            "2025": 3863417
+        }
+    },
+    {
+        "id": 603,
+        "name": "Banyuasin",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3442243,
+            "2025": 3715028
+        }
+    },
+    {
+        "id": 604,
+        "name": "Ogan Komering Ulu Timur",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3464303,
+            "2025": 3749696
+        }
+    },
+    {
+        "id": 605,
+        "name": "Musi Banyuasin",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3502873,
+            "2025": 3778348
+        }
+    },
+    {
+        "id": 606,
+        "name": "Ogan Ilir",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 607,
+        "name": "Ogan Komering Ilir",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 608,
+        "name": "Pagar Alam",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 609,
+        "name": "Ogan Komering Ulu",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 610,
+        "name": "Ogan Komering Ulu Selatan",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 611,
+        "name": "Penukal Abab Lematang Ilir",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 612,
+        "name": "Lubuklinggau",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 613,
+        "name": "Prabumulih",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 614,
+        "name": "Empat Lawang",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 615,
+        "name": "Lahat",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 616,
+        "name": "Musi Rawas",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3796653
+        }
+    },
+    {
+        "id": 617,
+        "name": "Musi Rawas Utara",
+        "province_id": 6,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3796654
+        }
+    }
+]

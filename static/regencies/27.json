@@ -1,0 +1,266 @@
+[
+    {
+        "id": 2701,
+        "name": "Kota Makassar",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3529181,
+            "2024": 3643321,
+            "2025": 3880136
+        }
+    },
+    {
+        "id": 2702,
+        "name": "Kota Palopo",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2703,
+        "name": "Kota Parepare",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2704,
+        "name": "Kabupaten Bantaeng",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2705,
+        "name": "Kabupaten Barru",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2706,
+        "name": "Kabupaten Bone",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2707,
+        "name": "Kabupaten Bulukumba",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2708,
+        "name": "Kabupaten Enrekang",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2709,
+        "name": "Kabupaten Gowa",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2710,
+        "name": "Kabupaten Jeneponto",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2711,
+        "name": "Kabupaten Kepulauan Selayar",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2712,
+        "name": "Kabupaten Luwu",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2713,
+        "name": "Kabupaten Luwu Timur",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2714,
+        "name": "Kabupaten Luwu Utara",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2715,
+        "name": "Kabupaten Maros",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2716,
+        "name": "Kabupaten Pangkep",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2717,
+        "name": "Kabupaten Pinrang",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2718,
+        "name": "Kabupaten Sidrap",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2719,
+        "name": "Kabupaten Sinjai",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2720,
+        "name": "Kabupaten Soppeng",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2721,
+        "name": "Kabupaten Takalar",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2722,
+        "name": "Kabupaten Tana Toraja",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2723,
+        "name": "Kabupaten Toraja Utara",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    },
+    {
+        "id": 2724,
+        "name": "Kabupaten Wajo",
+        "province_id": 27,
+        "province": "Sulawesi Selatan",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3657527
+        }
+    }
+]

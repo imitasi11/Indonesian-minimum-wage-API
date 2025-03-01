@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2801,
+        "name": "Kota Kendari",
+        "province_id": 28,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2024": 3093730,
+            "2025": 3314389
+        }
+    },
+    {
+        "id": 2802,
+        "name": "Kabupaten Kolaka",
+        "province_id": 28,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2024": 3229778,
+            "2025": 3342626
+        }
+    },
+    {
+        "id": 2803,
+        "name": "Kabupaten Konawe Utara",
+        "province_id": 28,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2024": 2885964,
+            "2025": 3073551.66
+        }
+    }
+]

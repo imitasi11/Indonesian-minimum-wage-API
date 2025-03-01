@@ -1,0 +1,11 @@
+{
+    "id": 701,
+    "name": "Bengkulu Selatan",
+    "province_id": 7,
+    "province": "Bengkulu",
+    "data": {
+        "2023": 2418280,
+        "2024": 2507079,
+        "2025": 2670039
+    }
+}

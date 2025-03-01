@@ -1,0 +1,152 @@
+[
+    {
+        "id": 801,
+        "name": "Bandar Lampung",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 3103631,
+            "2025": 3305367
+        }
+    },
+    {
+        "id": 802,
+        "name": "Kota Metro",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2726104,
+            "2025": 2903301
+        }
+    },
+    {
+        "id": 803,
+        "name": "Way Kanan",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2885122,
+            "2025": 3072665
+        }
+    },
+    {
+        "id": 804,
+        "name": "Mesuji",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2903310,
+            "2025": 3092026
+        }
+    },
+    {
+        "id": 805,
+        "name": "Lampung Selatan",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2889193,
+            "2025": 3076990
+        }
+    },
+    {
+        "id": 806,
+        "name": "Lampung Tengah",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 807,
+        "name": "Lampung Timur",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 808,
+        "name": "Lampung Utara",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 809,
+        "name": "Lampung Barat",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 810,
+        "name": "Tulang Bawang",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 811,
+        "name": "Tulang Bawang Barat",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 812,
+        "name": "Pringsewu",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 813,
+        "name": "Tanggamus",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 814,
+        "name": "Pesisir Barat",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 815,
+        "name": "Pesawaran",
+        "province_id": 8,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    }
+]

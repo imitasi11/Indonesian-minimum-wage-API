@@ -1,0 +1,232 @@
+[
+    {
+        "id": 101,
+        "name": "Banda Aceh",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3540555,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 102,
+        "name": "Kabupaten Aceh Barat",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 103,
+        "name": "Kabupaten Aceh Barat Daya",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 104,
+        "name": "Kabupaten Aceh Besar",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 105,
+        "name": "Kabupaten Aceh Jaya",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 106,
+        "name": "Kabupaten Aceh Selatan",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 107,
+        "name": "Kabupaten Aceh Singkil",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3717948
+        }
+    },
+    {
+        "id": 108,
+        "name": "Kabupaten Aceh Tamiang",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3456603,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 109,
+        "name": "Kabupaten Aceh Tengah",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 110,
+        "name": "Kabupaten Aceh Tenggara",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 111,
+        "name": "Kabupaten Aceh Timur",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 112,
+        "name": "Kabupaten Aceh Utara",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 113,
+        "name": "Kabupaten Bener Meriah",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 114,
+        "name": "Kabupaten Bireuen",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 115,
+        "name": "Kabupaten Gayo Lues",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 116,
+        "name": "Kabupaten Nagan Raya",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 117,
+        "name": "Kabupaten Pidie",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 118,
+        "name": "Kabupaten Pidie Jaya",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 119,
+        "name": "Kabupaten Simeulue",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 120,
+        "name": "Kota Langsa",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 121,
+        "name": "Kota Lhokseumawe",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 122,
+        "name": "Kota Sabang",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 123,
+        "name": "Kota Subulussalam",
+        "province_id": 1,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    }
+]

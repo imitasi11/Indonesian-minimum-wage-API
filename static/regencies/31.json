@@ -1,0 +1,101 @@
+[
+    {
+        "id": 3101,
+        "name": "Kota Ambon",
+        "province_id": 31,
+        "province": "Maluku",
+        "data": {
+            "2025": 3185733
+        }
+    },
+    {
+        "id": 3102,
+        "name": "Kota Tual",
+        "province_id": 31,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 3103,
+        "name": "Kabupaten Buru",
+        "province_id": 31,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 3104,
+        "name": "Kabupaten Buru Selatan",
+        "province_id": 31,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 3105,
+        "name": "Kabupaten Kepulauan Aru",
+        "province_id": 31,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 3106,
+        "name": "Kabupaten Maluku Barat Daya",
+        "province_id": 31,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 3107,
+        "name": "Kabupaten Maluku Tengah",
+        "province_id": 31,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 3108,
+        "name": "Kabupaten Maluku Tenggara",
+        "province_id": 31,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 3109,
+        "name": "Kabupaten Maluku Tenggara Barat",
+        "province_id": 31,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 3110,
+        "name": "Kabupaten Seram Bagian Barat",
+        "province_id": 31,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 3111,
+        "name": "Kabupaten Seram Bagian Timur",
+        "province_id": 31,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    }
+]

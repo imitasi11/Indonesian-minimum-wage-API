@@ -1,0 +1,11 @@
+{
+    "id": 2201,
+    "name": "Banjarbaru",
+    "province_id": 22,
+    "province": "Kalimantan Selatan",
+    "data": {
+        "2023": 3149977,
+        "2024": 3282812,
+        "2025": 3496189
+    }
+}

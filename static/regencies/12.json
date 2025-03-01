@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1201,
+        "name": "Kota Bekasi",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 5343430,
+            "2025": 5690752
+        }
+    },
+    {
+        "id": 1202,
+        "name": "Kabupaten Karawang",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 5257834,
+            "2025": 5599593
+        }
+    },
+    {
+        "id": 1203,
+        "name": "Kabupaten Bekasi",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 5219263,
+            "2025": 5558515
+        }
+    },
+    {
+        "id": 1204,
+        "name": "Kota Depok",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 4878612,
+            "2025": 5195721
+        }
+    },
+    {
+        "id": 1205,
+        "name": "Kota Bogor",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 4813988,
+            "2025": 5126897
+        }
+    },
+    {
+        "id": 1206,
+        "name": "Kabupaten Bogor",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 4579541,
+            "2025": 4877211
+        }
+    },
+    {
+        "id": 1207,
+        "name": "Kota Bandung",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 4209309,
+            "2025": 4482914
+        }
+    },
+    {
+        "id": 1208,
+        "name": "Kabupaten Bandung",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 3527967,
+            "2025": 3757284
+        }
+    },
+    {
+        "id": 1209,
+        "name": "Kabupaten Bandung Barat",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 3508677,
+            "2025": 3736741
+        }
+    },
+    {
+        "id": 1210,
+        "name": "Kabupaten Purwakarta",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 4499768,
+            "2025": 4792252
+        }
+    },
+    {
+        "id": 1211,
+        "name": "Kabupaten Subang",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 3294485,
+            "2025": 3508626
+        }
+    },
+    {
+        "id": 1212,
+        "name": "Kota Cimahi",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 3627880,
+            "2025": 3863692
+        }
+    },
+    {
+        "id": 1213,
+        "name": "Kabupaten Sumedang",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 3504308,
+            "2025": 3732088
+        }
+    },
+    {
+        "id": 1214,
+        "name": "Kabupaten Cianjur",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2915102,
+            "2025": 3104583
+        }
+    },
+    {
+        "id": 1215,
+        "name": "Kota Sukabumi",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2834399,
+            "2025": 3018634
+        }
+    },
+    {
+        "id": 1216,
+        "name": "Kabupaten Sukabumi",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 3384491,
+            "2025": 3604482
+        }
+    },
+    {
+        "id": 1217,
+        "name": "Kota Cirebon",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2533038,
+            "2025": 2697685
+        }
+    },
+    {
+        "id": 1218,
+        "name": "Kabupaten Cirebon",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2517730,
+            "2025": 2681382
+        }
+    },
+    {
+        "id": 1219,
+        "name": "Kabupaten Indramayu",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2623697,
+            "2025": 2794237
+        }
+    },
+    {
+        "id": 1220,
+        "name": "Kabupaten Majalengka",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2257871,
+            "2025": 2404632
+        }
+    },
+    {
+        "id": 1221,
+        "name": "Kabupaten Kuningan",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2074666,
+            "2025": 2209519
+        }
+    },
+    {
+        "id": 1222,
+        "name": "Kota Tasikmalaya",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2630951,
+            "2025": 2801962
+        }
+    },
+    {
+        "id": 1223,
+        "name": "Kabupaten Tasikmalaya",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2535204,
+            "2025": 2699992
+        }
+    },
+    {
+        "id": 1224,
+        "name": "Kabupaten Garut",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2186437,
+            "2025": 2328555
+        }
+    },
+    {
+        "id": 1225,
+        "name": "Kabupaten Ciamis",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2089464,
+            "2025": 2225279
+        }
+    },
+    {
+        "id": 1226,
+        "name": "Kabupaten Pangandaran",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2086126,
+            "2025": 2221724
+        }
+    },
+    {
+        "id": 1227,
+        "name": "Kota Banjar",
+        "province_id": 12,
+        "province": "Jawa Barat",
+        "data": {
+            "2024": 2070192,
+            "2025": 2204754
+        }
+    }
+]

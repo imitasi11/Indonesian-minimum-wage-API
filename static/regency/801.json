@@ -1,0 +1,10 @@
+{
+    "id": 801,
+    "name": "Bandar Lampung",
+    "province_id": 8,
+    "province": "Lampung",
+    "data": {
+        "2024": 3103631,
+        "2025": 3305367
+    }
+}

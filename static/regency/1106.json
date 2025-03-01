@@ -1,0 +1,11 @@
+{
+    "id": 1106,
+    "name": "Jakarta Utara",
+    "province_id": 11,
+    "province": "DKI Jakarta",
+    "data": {
+        "2023": 4901798,
+        "2024": 5067381,
+        "2025": 5396761
+    }
+}

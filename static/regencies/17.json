@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1701,
+        "name": "Kab. Jembrana",
+        "province_id": 17,
+        "province": "Bali",
+        "data": {
+            "2023": 2738698,
+            "2024": 2813672,
+            "2025": 2996561
+        }
+    },
+    {
+        "id": 1702,
+        "name": "Kab. Tabanan",
+        "province_id": 17,
+        "province": "Bali",
+        "data": {
+            "2023": 2824613,
+            "2024": 2913165,
+            "2025": 3102520
+        }
+    },
+    {
+        "id": 1703,
+        "name": "Kab. Badung",
+        "province_id": 17,
+        "province": "Bali",
+        "data": {
+            "2023": 3163837,
+            "2024": 3318628,
+            "2025": 3534338
+        }
+    },
+    {
+        "id": 1704,
+        "name": "Kab. Gianyar",
+        "province_id": 17,
+        "province": "Bali",
+        "data": {
+            "2023": 2837680,
+            "2024": 2928713,
+            "2025": 3119080
+        }
+    },
+    {
+        "id": 1705,
+        "name": "Kab. Klungkung",
+        "province_id": 17,
+        "province": "Bali",
+        "data": {
+            "2023": 2714642,
+            "2024": 2813672,
+            "2025": 2996561
+        }
+    },
+    {
+        "id": 1706,
+        "name": "Kab. Bangli",
+        "province_id": 17,
+        "province": "Bali",
+        "data": {
+            "2024": 2813672,
+            "2025": 2996561
+        }
+    },
+    {
+        "id": 1707,
+        "name": "Kab. Karangasem",
+        "province_id": 17,
+        "province": "Bali",
+        "data": {
+            "2023": 2730264,
+            "2024": 2813672,
+            "2025": 2996561
+        }
+    },
+    {
+        "id": 1708,
+        "name": "Kab. Buleleng",
+        "province_id": 17,
+        "province": "Bali",
+        "data": {
+            "2023": 2716206,
+            "2024": 2813672,
+            "2025": 2996561
+        }
+    },
+    {
+        "id": 1709,
+        "name": "Kota Denpasar",
+        "province_id": 17,
+        "province": "Bali",
+        "data": {
+            "2023": 2994646,
+            "2024": 3096823,
+            "2025": 3298116
+        }
+    }
+]

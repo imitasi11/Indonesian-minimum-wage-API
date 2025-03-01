@@ -1,0 +1,192 @@
+[
+    {
+        "id": 301,
+        "name": "Kabupaten Agam",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 302,
+        "name": "Kabupaten Dharmasraya",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 303,
+        "name": "Kabupaten Kepulauan Mentawai",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 304,
+        "name": "Kabupaten Lima Puluh Kota",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 305,
+        "name": "Kabupaten Padang Pariaman",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 306,
+        "name": "Kabupaten Pasaman",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 307,
+        "name": "Kabupaten Pasaman Barat",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 308,
+        "name": "Kabupaten Pesisir Selatan",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 309,
+        "name": "Kabupaten Sijunjung",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 310,
+        "name": "Kabupaten Solok",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 311,
+        "name": "Kabupaten Solok Selatan",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 312,
+        "name": "Kabupaten Tanah Datar",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 313,
+        "name": "Kota Bukittinggi",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 314,
+        "name": "Kota Padang",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 315,
+        "name": "Kota Padang Panjang",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 316,
+        "name": "Kota Pariaman",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 317,
+        "name": "Kota Payakumbuh",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 318,
+        "name": "Kota Sawahlunto",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    },
+    {
+        "id": 319,
+        "name": "Kota Solok",
+        "province_id": 3,
+        "province": "Sumatera Barat",
+        "data": {
+            "2024": 2881149,
+            "2025": 2994193
+        }
+    }
+]

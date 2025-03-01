@@ -1,0 +1,11 @@
+{
+    "id": 710,
+    "name": "Kota Bengkulu",
+    "province_id": 7,
+    "province": "Bengkulu",
+    "data": {
+        "2023": 2601802,
+        "2024": 2751802,
+        "2025": 2930669
+    }
+}
