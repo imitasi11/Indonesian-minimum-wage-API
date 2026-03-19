@@ -1,10 +1,11 @@
 {
     "id": 1213,
-    "name": "Mandailing Natal",
+    "name": "Kabupaten Mandailing Natal",
     "province_id": 12,
     "province": "Sumatera Utara",
     "data": {
         "2024": 2911736,
-        "2025": 3100999
+        "2025": 3100999,
+        "2026": 3555900
     }
 }
