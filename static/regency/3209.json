@@ -1,9 +1,10 @@
 {
     "id": 3209,
-    "name": "Kabupaten Pulau Morotai",
+    "name": "Kabupaten Cirebon",
     "province_id": 32,
-    "province": "Maluku Utara",
+    "province": "Jawa Barat",
     "data": {
-        "2025": 3408000
+        "2024": 2517730,
+        "2025": 2681382
     }
 }

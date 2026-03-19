@@ -1,130 +1,172 @@
 [
     {
         "id": 1601,
-        "name": "Kab Pandeglang",
+        "name": "Kabupaten Ogan Komering Ulu",
         "province_id": 16,
-        "province": "Banten",
+        "province": "Sumatera Selatan",
         "data": {
-            "2018": 2363549,
-            "2019": 2542539,
-            "2020": 2758909,
-            "2021": 2800293,
-            "2022": 2800293,
-            "2023": 2980351,
-            "2024": 3010929,
-            "2025": 3206640
+            "2024": 3456874,
+            "2025": 3681571
         }
     },
     {
         "id": 1602,
-        "name": "Kab Lebak",
+        "name": "Kabupaten Ogan Komering Ilir",
         "province_id": 16,
-        "province": "Banten",
+        "province": "Sumatera Selatan",
         "data": {
-            "2018": 2312384,
-            "2019": 2498068,
-            "2020": 2710654,
-            "2021": 2751314,
-            "2022": 2773590,
-            "2023": 2944665,
-            "2024": 2978764,
-            "2025": 3172384
+            "2024": 3456874,
+            "2025": 3681571
         }
     },
     {
         "id": 1603,
-        "name": "Kab Tangerang",
+        "name": "Kabupaten Muara Enim",
         "province_id": 16,
-        "province": "Banten",
+        "province": "Sumatera Selatan",
         "data": {
-            "2018": 3555835,
-            "2019": 3841368,
-            "2020": 4168268,
-            "2021": 4230793,
-            "2022": 4230793,
-            "2023": 4527689,
-            "2024": 4601988,
-            "2025": 4901117
+            "2024": 3538556,
+            "2025": 3863417
         }
     },
     {
         "id": 1604,
-        "name": "Kab Serang",
+        "name": "Kabupaten Lahat",
         "province_id": 16,
-        "province": "Banten",
+        "province": "Sumatera Selatan",
         "data": {
-            "2018": 3542714,
-            "2019": 3827193,
-            "2020": 4152887,
-            "2021": 4215181,
-            "2022": 4215181,
-            "2023": 4492961,
-            "2024": 4560894,
-            "2025": 4857353
+            "2024": 3456874,
+            "2025": 3681571
         }
     },
     {
         "id": 1605,
-        "name": "Kota Tangerang",
+        "name": "Kabupaten Musi Rawas",
         "province_id": 16,
-        "province": "Banten",
+        "province": "Sumatera Selatan",
         "data": {
-            "2018": 3582077,
-            "2019": 3869717,
-            "2020": 4199029,
-            "2021": 4262015,
-            "2022": 4285799,
-            "2023": 4584519,
-            "2024": 4760289,
-            "2025": 5069708
+            "2024": 3456874,
+            "2025": 3796653
         }
     },
     {
         "id": 1606,
-        "name": "Kota Cilegon",
+        "name": "Kabupaten Musi Banyuasin",
         "province_id": 16,
-        "province": "Banten",
+        "province": "Sumatera Selatan",
         "data": {
-            "2018": 3622215,
-            "2019": 3913078,
-            "2020": 4246081,
-            "2021": 4309773,
-            "2022": 4340254,
-            "2023": 4657223,
-            "2024": 4815102,
-            "2025": 5128084
+            "2024": 3502873,
+            "2025": 3778348
         }
     },
     {
         "id": 1607,
-        "name": "Kota Serang",
+        "name": "Kabupaten Banyuasin",
         "province_id": 16,
-        "province": "Banten",
+        "province": "Sumatera Selatan",
         "data": {
-            "2018": 3116276,
-            "2019": 3366512,
-            "2020": 3773940,
-            "2021": 3830549,
-            "2022": 3850526,
-            "2023": 4090799,
-            "2024": 4148602,
-            "2025": 4418261
+            "2024": 3442243,
+            "2025": 3715028
         }
     },
     {
         "id": 1608,
-        "name": "Kota Tangerang Selatan",
+        "name": "Kabupaten Ogan Komering Ulu Timur",
         "province_id": 16,
-        "province": "Banten",
+        "province": "Sumatera Selatan",
         "data": {
-            "2018": 3555835,
-            "2019": 3841368,
-            "2020": 4168268,
-            "2021": 4230793,
-            "2022": 4280214,
-            "2023": 4551452,
-            "2024": 4670791,
-            "2025": 4974392
+            "2024": 3464303,
+            "2025": 3749696
+        }
+    },
+    {
+        "id": 1609,
+        "name": "Kabupaten Ogan Komering Ulu Selatan",
+        "province_id": 16,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 1610,
+        "name": "Kabupaten Ogan Ilir",
+        "province_id": 16,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 1611,
+        "name": "Kabupaten Empat Lawang",
+        "province_id": 16,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 1612,
+        "name": "Kabupaten Penukal Abab Lematang Ilir",
+        "province_id": 16,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 1613,
+        "name": "Kabupaten Musi Rawas Utara",
+        "province_id": 16,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3796654
+        }
+    },
+    {
+        "id": 1671,
+        "name": "Kota Palembang",
+        "province_id": 16,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3677591,
+            "2025": 3916635
+        }
+    },
+    {
+        "id": 1672,
+        "name": "Kota Pagar Alam",
+        "province_id": 16,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 1673,
+        "name": "Kota Lubuk Linggau",
+        "province_id": 16,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
+        }
+    },
+    {
+        "id": 1674,
+        "name": "Kota Prabumulih",
+        "province_id": 16,
+        "province": "Sumatera Selatan",
+        "data": {
+            "2024": 3456874,
+            "2025": 3681571
         }
     }
 ]

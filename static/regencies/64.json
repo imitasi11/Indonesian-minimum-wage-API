@@ -1,0 +1,102 @@
+[
+    {
+        "id": 6401,
+        "name": "Kabupaten Paser",
+        "province_id": 64,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3372362,
+            "2025": 3591565.53
+        }
+    },
+    {
+        "id": 6402,
+        "name": "Kabupaten Kutai Kartanegara",
+        "province_id": 64,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3536506.28,
+            "2025": 3766379.19
+        }
+    },
+    {
+        "id": 6403,
+        "name": "Kabupaten Berau",
+        "province_id": 64,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3832297,
+            "2025": 4081376.31
+        }
+    },
+    {
+        "id": 6407,
+        "name": "Kabupaten Kutai Barat",
+        "province_id": 64,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3711017,
+            "2025": 3952233.98
+        }
+    },
+    {
+        "id": 6408,
+        "name": "Kabupaten Kutai Timur",
+        "province_id": 64,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3711017.82,
+            "2025": 3743820
+        }
+    },
+    {
+        "id": 6409,
+        "name": "Kabupaten Penajam Paser Utara",
+        "province_id": 64,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3715817.74,
+            "2025": 3957345.89
+        }
+    },
+    {
+        "id": 6411,
+        "name": "Kabupaten Mahakam Ulu",
+        "province_id": 64,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3711017,
+            "2025": 3953233
+        }
+    },
+    {
+        "id": 6471,
+        "name": "Kota Balikpapan",
+        "province_id": 64,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3475595,
+            "2025": 3701508.68
+        }
+    },
+    {
+        "id": 6472,
+        "name": "Kota Samarinda",
+        "province_id": 64,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3497124.13,
+            "2025": 3724437.2
+        }
+    },
+    {
+        "id": 6474,
+        "name": "Kota Bontang",
+        "province_id": 64,
+        "province": "Kalimantan Timur",
+        "data": {
+            "2024": 3549307.67,
+            "2025": 3780012.66
+        }
+    }
+]

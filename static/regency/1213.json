@@ -1,10 +1,10 @@
 {
     "id": 1213,
-    "name": "Kabupaten Sumedang",
+    "name": "Mandailing Natal",
     "province_id": 12,
-    "province": "Jawa Barat",
+    "province": "Sumatera Utara",
     "data": {
-        "2024": 3504308,
-        "2025": 3732088
+        "2024": 2911736,
+        "2025": 3100999
     }
 }

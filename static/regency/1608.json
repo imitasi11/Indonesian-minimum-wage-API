@@ -1,16 +1,10 @@
 {
     "id": 1608,
-    "name": "Kota Tangerang Selatan",
+    "name": "Kabupaten Ogan Komering Ulu Timur",
     "province_id": 16,
-    "province": "Banten",
+    "province": "Sumatera Selatan",
     "data": {
-        "2018": 3555835,
-        "2019": 3841368,
-        "2020": 4168268,
-        "2021": 4230793,
-        "2022": 4280214,
-        "2023": 4551452,
-        "2024": 4670791,
-        "2025": 4974392
+        "2024": 3464303,
+        "2025": 3749696
     }
 }

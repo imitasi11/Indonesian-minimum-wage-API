@@ -1,101 +1,68 @@
 [
     {
         "id": 3101,
-        "name": "Kota Ambon",
+        "name": "Kabupaten Kepulauan Seribu",
         "province_id": 31,
-        "province": "Maluku",
+        "province": "DKI Jakarta",
         "data": {
-            "2025": 3185733
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
         }
     },
     {
-        "id": 3102,
-        "name": "Kota Tual",
+        "id": 3171,
+        "name": "Kota Jakarta Pusat",
         "province_id": 31,
-        "province": "Maluku",
+        "province": "DKI Jakarta",
         "data": {
-            "2025": 3141700
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
         }
     },
     {
-        "id": 3103,
-        "name": "Kabupaten Buru",
+        "id": 3172,
+        "name": "Kota Jakarta Utara",
         "province_id": 31,
-        "province": "Maluku",
+        "province": "DKI Jakarta",
         "data": {
-            "2025": 3141700
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
         }
     },
     {
-        "id": 3104,
-        "name": "Kabupaten Buru Selatan",
+        "id": 3173,
+        "name": "Kota Jakarta Barat",
         "province_id": 31,
-        "province": "Maluku",
+        "province": "DKI Jakarta",
         "data": {
-            "2025": 3141700
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
         }
     },
     {
-        "id": 3105,
-        "name": "Kabupaten Kepulauan Aru",
+        "id": 3174,
+        "name": "Kota Jakarta Selatan",
         "province_id": 31,
-        "province": "Maluku",
+        "province": "DKI Jakarta",
         "data": {
-            "2025": 3141700
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
         }
     },
     {
-        "id": 3106,
-        "name": "Kabupaten Maluku Barat Daya",
+        "id": 3175,
+        "name": "Kota Jakarta Timur",
         "province_id": 31,
-        "province": "Maluku",
+        "province": "DKI Jakarta",
         "data": {
-            "2025": 3141700
-        }
-    },
-    {
-        "id": 3107,
-        "name": "Kabupaten Maluku Tengah",
-        "province_id": 31,
-        "province": "Maluku",
-        "data": {
-            "2025": 3141700
-        }
-    },
-    {
-        "id": 3108,
-        "name": "Kabupaten Maluku Tenggara",
-        "province_id": 31,
-        "province": "Maluku",
-        "data": {
-            "2025": 3141700
-        }
-    },
-    {
-        "id": 3109,
-        "name": "Kabupaten Maluku Tenggara Barat",
-        "province_id": 31,
-        "province": "Maluku",
-        "data": {
-            "2025": 3141700
-        }
-    },
-    {
-        "id": 3110,
-        "name": "Kabupaten Seram Bagian Barat",
-        "province_id": 31,
-        "province": "Maluku",
-        "data": {
-            "2025": 3141700
-        }
-    },
-    {
-        "id": 3111,
-        "name": "Kabupaten Seram Bagian Timur",
-        "province_id": 31,
-        "province": "Maluku",
-        "data": {
-            "2025": 3141700
+            "2023": 4901798,
+            "2024": 5067381,
+            "2025": 5396761
         }
     }
 ]

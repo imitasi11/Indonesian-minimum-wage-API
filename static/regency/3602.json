@@ -1,9 +1,16 @@
 {
     "id": 3602,
-    "name": "Kabupaten Lanny Jaya",
+    "name": "Kabupaten Lebak",
     "province_id": 36,
-    "province": "Papua Pegunungan",
+    "province": "Banten",
     "data": {
-        "2025": 4285850
+        "2018": 2312384,
+        "2019": 2498068,
+        "2020": 2710654,
+        "2021": 2751314,
+        "2022": 2773590,
+        "2023": 2944665,
+        "2024": 2978764,
+        "2025": 3172384
     }
 }

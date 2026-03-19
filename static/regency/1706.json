@@ -1,10 +1,11 @@
 {
     "id": 1706,
-    "name": "Kab. Bangli",
+    "name": "Kabupaten Mukomuko",
     "province_id": 17,
-    "province": "Bali",
+    "province": "Bengkulu",
     "data": {
-        "2024": 2813672,
-        "2025": 2996561
+        "2023": 2715839,
+        "2024": 2865839,
+        "2025": 3052118
     }
 }

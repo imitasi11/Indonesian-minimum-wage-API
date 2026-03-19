@@ -1,9 +1,10 @@
 {
     "id": 3202,
-    "name": "Kota Tidore Kepulauan",
+    "name": "Kabupaten Sukabumi",
     "province_id": 32,
-    "province": "Maluku Utara",
+    "province": "Jawa Barat",
     "data": {
-        "2025": 3408000
+        "2024": 3384491,
+        "2025": 3604482
     }
 }

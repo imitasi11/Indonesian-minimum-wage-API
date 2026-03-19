@@ -1,11 +1,10 @@
 {
     "id": 1103,
-    "name": "Jakarta Pusat",
+    "name": "Kabupaten Aceh Timur",
     "province_id": 11,
-    "province": "DKI Jakarta",
+    "province": "Aceh",
     "data": {
-        "2023": 4901798,
-        "2024": 5067381,
-        "2025": 5396761
+        "2024": 3413666,
+        "2025": 3685616
     }
 }

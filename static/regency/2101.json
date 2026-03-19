@@ -1,10 +1,16 @@
 {
     "id": 2101,
-    "name": "Kota Palangka Raya",
+    "name": "Kabupaten Bintan",
     "province_id": 21,
-    "province": "Kalimantan Tengah",
+    "province": "Kepulauan Riau",
     "data": {
-        "2024": 3310004,
-        "2025": 3525154
+        "2018": 3112618,
+        "2019": 3362561,
+        "2020": 3648714,
+        "2021": 3648714,
+        "2022": 3648714,
+        "2023": 3899015,
+        "2024": 3950050,
+        "2025": 4207762
     }
 }

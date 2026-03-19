@@ -1,0 +1,101 @@
+[
+    {
+        "id": 8101,
+        "name": "Kabupaten Maluku Tengah",
+        "province_id": 81,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 8102,
+        "name": "Kabupaten Maluku Tenggara",
+        "province_id": 81,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 8103,
+        "name": "Kabupaten Kepulauan Tanimbar",
+        "province_id": 81,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 8104,
+        "name": "Kabupaten Buru",
+        "province_id": 81,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 8105,
+        "name": "Kabupaten Seram Bagian Timur",
+        "province_id": 81,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 8106,
+        "name": "Kabupaten Seram Bagian Barat",
+        "province_id": 81,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 8107,
+        "name": "Kabupaten Kepulauan Aru",
+        "province_id": 81,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 8108,
+        "name": "Kabupaten Maluku Barat Daya",
+        "province_id": 81,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 8109,
+        "name": "Kabupaten Buru Selatan",
+        "province_id": 81,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    },
+    {
+        "id": 8171,
+        "name": "Kota Ambon",
+        "province_id": 81,
+        "province": "Maluku",
+        "data": {
+            "2025": 3185733
+        }
+    },
+    {
+        "id": 8172,
+        "name": "Kota Tual",
+        "province_id": 81,
+        "province": "Maluku",
+        "data": {
+            "2025": 3141700
+        }
+    }
+]

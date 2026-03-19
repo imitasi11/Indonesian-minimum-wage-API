@@ -1,11 +1,11 @@
 {
     "id": 1709,
-    "name": "Kota Denpasar",
+    "name": "Kabupaten Bengkulu Tengah",
     "province_id": 17,
-    "province": "Bali",
+    "province": "Bengkulu",
     "data": {
-        "2023": 2994646,
-        "2024": 3096823,
-        "2025": 3298116
+        "2023": 2494915,
+        "2024": 2644915,
+        "2025": 2816835
     }
 }

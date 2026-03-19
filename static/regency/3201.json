@@ -1,9 +1,10 @@
 {
     "id": 3201,
-    "name": "Kota Ternate",
+    "name": "Kabupaten Bogor",
     "province_id": 32,
-    "province": "Maluku Utara",
+    "province": "Jawa Barat",
     "data": {
-        "2025": 3461250
+        "2024": 4579541,
+        "2025": 4877211
     }
 }

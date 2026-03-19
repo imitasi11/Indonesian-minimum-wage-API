@@ -1,10 +1,16 @@
 {
     "id": 3306,
-    "name": "Kabupaten Sorong Selatan",
+    "name": "Kabupaten Purworejo",
     "province_id": 33,
-    "province": "Papua Barat",
+    "province": "Jawa Tengah",
     "data": {
-        "2024": 3393000,
-        "2025": 3615000
+        "2018": 1560000,
+        "2019": 1686000,
+        "2020": 1835000,
+        "2021": 1895000,
+        "2022": 1906781,
+        "2023": 2035890,
+        "2024": 2121947,
+        "2025": 2259873.55
     }
 }

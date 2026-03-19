@@ -1,0 +1,60 @@
+[
+    {
+        "id": 9601,
+        "name": "Kabupaten Sorong ",
+        "province_id": 96,
+        "province": "Papua Barat Daya",
+        "data": {
+            "2024": 3393000,
+            "2025": 3614000
+        }
+    },
+    {
+        "id": 9602,
+        "name": "Kabupaten Sorong Selatan ",
+        "province_id": 96,
+        "province": "Papua Barat Daya",
+        "data": {
+            "2024": 3393000,
+            "2025": 3614000
+        }
+    },
+    {
+        "id": 9603,
+        "name": "Kabupaten Raja Ampat ",
+        "province_id": 96,
+        "province": "Papua Barat Daya",
+        "data": {
+            "2024": 3393000,
+            "2025": 3614000
+        }
+    },
+    {
+        "id": 9604,
+        "name": "Kabupaten Tambrauw ",
+        "province_id": 96,
+        "province": "Papua Barat Daya",
+        "data": {
+            "2025": 3614000
+        }
+    },
+    {
+        "id": 9605,
+        "name": "Kabupaten Maybrat ",
+        "province_id": 96,
+        "province": "Papua Barat Daya",
+        "data": {
+            "2024": 3393000,
+            "2025": 3614000
+        }
+    },
+    {
+        "id": 9671,
+        "name": "Kota Sorong",
+        "province_id": 96,
+        "province": "Papua Barat Daya",
+        "data": {
+            "2025": 3614000
+        }
+    }
+]

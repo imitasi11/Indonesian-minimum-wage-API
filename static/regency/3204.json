@@ -1,9 +1,10 @@
 {
     "id": 3204,
-    "name": "Kabupaten Halmahera Tengah",
+    "name": "Kabupaten Bandung",
     "province_id": 32,
-    "province": "Maluku Utara",
+    "province": "Jawa Barat",
     "data": {
-        "2025": 3408000
+        "2024": 3527967,
+        "2025": 3757284
     }
 }

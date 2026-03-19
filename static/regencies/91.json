@@ -1,0 +1,92 @@
+[
+    {
+        "id": 9103,
+        "name": "Kabupaten Jayapura",
+        "province_id": 91,
+        "province": "Papua",
+        "data": {
+            "2024": 4024270,
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9105,
+        "name": "Kabupaten Kepulauan Yapen",
+        "province_id": 91,
+        "province": "Papua",
+        "data": {
+            "2024": 4024270,
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9106,
+        "name": "Kabupaten Biak Numfor",
+        "province_id": 91,
+        "province": "Papua",
+        "data": {
+            "2024": 4024270,
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9110,
+        "name": "Kabupaten Sarmi",
+        "province_id": 91,
+        "province": "Papua",
+        "data": {
+            "2024": 4024270,
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9111,
+        "name": "Kabupaten Keerom",
+        "province_id": 91,
+        "province": "Papua",
+        "data": {
+            "2024": 4024270,
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9115,
+        "name": "Kabupaten Waropen",
+        "province_id": 91,
+        "province": "Papua",
+        "data": {
+            "2024": 4024270,
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9119,
+        "name": "Kabupaten Supiori",
+        "province_id": 91,
+        "province": "Papua",
+        "data": {
+            "2024": 4024270,
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9120,
+        "name": "Kabupaten Mamberamo Raya",
+        "province_id": 91,
+        "province": "Papua",
+        "data": {
+            "2024": 4024270,
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9171,
+        "name": "Kota Jayapura",
+        "province_id": 91,
+        "province": "Papua",
+        "data": {
+            "2024": 3393000,
+            "2025": 4285850
+        }
+    }
+]

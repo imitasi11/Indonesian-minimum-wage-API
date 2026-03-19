@@ -1,16 +1,10 @@
 {
     "id": 1601,
-    "name": "Kab Pandeglang",
+    "name": "Kabupaten Ogan Komering Ulu",
     "province_id": 16,
-    "province": "Banten",
+    "province": "Sumatera Selatan",
     "data": {
-        "2018": 2363549,
-        "2019": 2542539,
-        "2020": 2758909,
-        "2021": 2800293,
-        "2022": 2800293,
-        "2023": 2980351,
-        "2024": 3010929,
-        "2025": 3206640
+        "2024": 3456874,
+        "2025": 3681571
     }
 }

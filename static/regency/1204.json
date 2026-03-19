@@ -1,10 +1,10 @@
 {
     "id": 1204,
-    "name": "Kota Depok",
+    "name": "Kabupaten Nias",
     "province_id": 12,
-    "province": "Jawa Barat",
+    "province": "Sumatera Utara",
     "data": {
-        "2024": 4878612,
-        "2025": 5195721
+        "2024": 2809915,
+        "2025": 2992559
     }
 }

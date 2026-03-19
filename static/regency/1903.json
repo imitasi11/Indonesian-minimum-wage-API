@@ -1,15 +1,10 @@
 {
     "id": 1903,
-    "name": "Kupang",
+    "name": "Kabupaten Bangka Selatan",
     "province_id": 19,
-    "province": "Nusa Tenggara Timur",
+    "province": "Bangka Belitung",
     "data": {
-        "2019": 1795000,
-        "2020": 1950000,
-        "2021": 1950000,
-        "2022": 1975000,
-        "2023": 2123994,
-        "2024": 2186826,
-        "2025": 2328969
+        "2024": 3640000,
+        "2025": 3876600
     }
 }

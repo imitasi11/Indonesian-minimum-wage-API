@@ -1,10 +1,10 @@
 {
     "id": 1203,
-    "name": "Kabupaten Bekasi",
+    "name": "Kabupaten Tapanuli Selatan",
     "province_id": 12,
-    "province": "Jawa Barat",
+    "province": "Sumatera Utara",
     "data": {
-        "2024": 5219263,
-        "2025": 5558515
+        "2024": 3105469,
+        "2025": 3307324
     }
 }

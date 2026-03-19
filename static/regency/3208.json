@@ -1,9 +1,10 @@
 {
     "id": 3208,
-    "name": "Kabupaten Kepulauan Sula",
+    "name": "Kabupaten Kuningan",
     "province_id": 32,
-    "province": "Maluku Utara",
+    "province": "Jawa Barat",
     "data": {
-        "2025": 3408000
+        "2024": 2074666,
+        "2025": 2209519
     }
 }

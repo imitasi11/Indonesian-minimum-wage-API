@@ -1,11 +1,11 @@
 {
     "id": 1703,
-    "name": "Kab. Badung",
+    "name": "Kabupaten Bengkulu Utara",
     "province_id": 17,
-    "province": "Bali",
+    "province": "Bengkulu",
     "data": {
-        "2023": 3163837,
-        "2024": 3318628,
-        "2025": 3534338
+        "2023": 2418280,
+        "2024": 2586529,
+        "2025": 2754653
     }
 }

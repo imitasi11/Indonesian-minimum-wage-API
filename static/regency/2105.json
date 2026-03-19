@@ -1,10 +1,16 @@
 {
     "id": 2105,
-    "name": "Kabupaten Kapuas",
+    "name": "Kabupaten Kepulauan Anambas",
     "province_id": 21,
-    "province": "Kalimantan Tengah",
+    "province": "Kepulauan Riau",
     "data": {
-        "2024": 3261700,
-        "2025": 3473711
+        "2018": 2932925,
+        "2019": 3168439,
+        "2020": 3501441,
+        "2021": 3501441,
+        "2022": 3518249,
+        "2023": 3757560,
+        "2024": 3835605,
+        "2025": 4084919
     }
 }

@@ -1,10 +1,16 @@
 {
     "id": 3311,
-    "name": "Kabupaten Manokwari Selatan",
+    "name": "Kabupaten Sukoharjo",
     "province_id": 33,
-    "province": "Papua Barat",
+    "province": "Jawa Tengah",
     "data": {
-        "2024": 3393000,
-        "2025": 3615000
+        "2018": 1648000,
+        "2019": 1783500,
+        "2020": 1938000,
+        "2021": 1986450,
+        "2022": 1998153,
+        "2023": 2138248,
+        "2024": 2215482,
+        "2025": 2359488
     }
 }

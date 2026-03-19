@@ -1,9 +1,10 @@
 {
     "id": 3203,
-    "name": "Kabupaten Halmahera Barat",
+    "name": "Kabupaten Cianjur",
     "province_id": 32,
-    "province": "Maluku Utara",
+    "province": "Jawa Barat",
     "data": {
-        "2025": 3408000
+        "2024": 2915102,
+        "2025": 3104583
     }
 }

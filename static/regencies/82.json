@@ -1,0 +1,93 @@
+[
+    {
+        "id": 8201,
+        "name": "Kabupaten Halmahera Barat",
+        "province_id": 82,
+        "province": "Maluku Utara",
+        "data": {
+            "2025": 3408000
+        }
+    },
+    {
+        "id": 8202,
+        "name": "Kabupaten Halmahera Tengah",
+        "province_id": 82,
+        "province": "Maluku Utara",
+        "data": {
+            "2025": 3408000
+        }
+    },
+    {
+        "id": 8203,
+        "name": "Kabupaten Halmahera Utara",
+        "province_id": 82,
+        "province": "Maluku Utara",
+        "data": {
+            "2025": 3408000
+        }
+    },
+    {
+        "id": 8204,
+        "name": "Kabupaten Halmahera Selatan",
+        "province_id": 82,
+        "province": "Maluku Utara",
+        "data": {
+            "2025": 3408000
+        }
+    },
+    {
+        "id": 8205,
+        "name": "Kabupaten Kepulauan Sula",
+        "province_id": 82,
+        "province": "Maluku Utara",
+        "data": {
+            "2025": 3408000
+        }
+    },
+    {
+        "id": 8206,
+        "name": "Kabupaten Halmahera Timur",
+        "province_id": 82,
+        "province": "Maluku Utara",
+        "data": {
+            "2025": 3408000
+        }
+    },
+    {
+        "id": 8207,
+        "name": "Kabupaten Pulau Morotai",
+        "province_id": 82,
+        "province": "Maluku Utara",
+        "data": {
+            "2025": 3408000
+        }
+    },
+    {
+        "id": 8208,
+        "name": "Kabupaten Pulau Taliabu",
+        "province_id": 82,
+        "province": "Maluku Utara",
+        "data": {
+            "2025": 3408000
+        }
+    },
+    {
+        "id": 8271,
+        "name": "Kota Ternate",
+        "province_id": 82,
+        "province": "Maluku Utara",
+        "data": {
+            "2025": 3461250
+        }
+    },
+    {
+        "id": 8272,
+        "name": "Kota Tidore Kepulauan",
+        "province_id": 82,
+        "province": "Maluku Utara",
+        "data": {
+            "2024": 4024270,
+            "2025": 3408000
+        }
+    }
+]

@@ -1,102 +1,152 @@
 [
     {
         "id": 1801,
-        "name": "Kota Mataram",
+        "name": "Kabupaten Lampung Selatan",
         "province_id": 18,
-        "province": "Nusa Tenggara Barat",
+        "province": "Lampung",
         "data": {
-            "2024": 2685089,
-            "2025": 2859620
+            "2024": 2889193,
+            "2025": 3076990
         }
     },
     {
         "id": 1802,
-        "name": "Kabupaten Lombok Barat",
+        "name": "Kabupaten Lampung Tengah",
         "province_id": 18,
-        "province": "Nusa Tenggara Barat",
+        "province": "Lampung",
         "data": {
-            "2024": 2444067,
-            "2025": 2602931
+            "2024": 2716497,
+            "2025": 2893069
         }
     },
     {
         "id": 1803,
-        "name": "Kabupaten Lombok Tengah",
+        "name": "Kabupaten Lampung Utara",
         "province_id": 18,
-        "province": "Nusa Tenggara Barat",
+        "province": "Lampung",
         "data": {
-            "2024": 2450968,
-            "2025": 2610281
+            "2024": 2716497,
+            "2025": 2893069
         }
     },
     {
         "id": 1804,
-        "name": "Kabupaten Lombok Timur",
+        "name": "Kabupaten Lampung Barat",
         "province_id": 18,
-        "province": "Nusa Tenggara Barat",
+        "province": "Lampung",
         "data": {
-            "2024": 2449497,
-            "2025": 2608714
+            "2024": 2716497,
+            "2025": 2893069
         }
     },
     {
         "id": 1805,
-        "name": "Kabupaten Lombok Utara",
+        "name": "Kabupaten Tulang Bawang",
         "province_id": 18,
-        "province": "Nusa Tenggara Barat",
+        "province": "Lampung",
         "data": {
-            "2024": 2450541,
-            "2025": 2609826
+            "2024": 2716497,
+            "2025": 2893069
         }
     },
     {
         "id": 1806,
-        "name": "Kabupaten Sumbawa Barat",
+        "name": "Kabupaten Tanggamus",
         "province_id": 18,
-        "province": "Nusa Tenggara Barat",
+        "province": "Lampung",
         "data": {
-            "2024": 2650862,
-            "2025": 2823168
+            "2024": 2716497,
+            "2025": 2893069
         }
     },
     {
         "id": 1807,
-        "name": "Kabupaten Sumbawa",
+        "name": "Kabupaten Lampung Timur",
         "province_id": 18,
-        "province": "Nusa Tenggara Barat",
+        "province": "Lampung",
         "data": {
-            "2024": 2467237,
-            "2025": 2627607
+            "2024": 2716497,
+            "2025": 2893069
         }
     },
     {
         "id": 1808,
-        "name": "Kabupaten Dompu",
+        "name": "Kabupaten Way Kanan",
         "province_id": 18,
-        "province": "Nusa Tenggara Barat",
+        "province": "Lampung",
         "data": {
-            "2024": 2466699,
-            "2025": 2605734
+            "2024": 2885122,
+            "2025": 3072665
         }
     },
     {
         "id": 1809,
-        "name": "Kabupaten Bima",
+        "name": "Kabupaten Pesawaran",
         "province_id": 18,
-        "province": "Nusa Tenggara Barat",
+        "province": "Lampung",
         "data": {
-            "2024": 2476195,
-            "2025": 2637147
+            "2024": 2716497,
+            "2025": 2893069
         }
     },
     {
         "id": 1810,
-        "name": "Kota Bima",
+        "name": "Kabupaten Pringsewu",
         "province_id": 18,
-        "province": "Nusa Tenggara Barat",
+        "province": "Lampung",
         "data": {
-            "2024": 2500206,
-            "2025": 2662719
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 1811,
+        "name": "Kabupaten Mesuji",
+        "province_id": 18,
+        "province": "Lampung",
+        "data": {
+            "2024": 2903310,
+            "2025": 3092026
+        }
+    },
+    {
+        "id": 1812,
+        "name": "Kabupaten Tulang Bawang Barat",
+        "province_id": 18,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 1813,
+        "name": "Kabupaten Pesisir Barat",
+        "province_id": 18,
+        "province": "Lampung",
+        "data": {
+            "2024": 2716497,
+            "2025": 2893069
+        }
+    },
+    {
+        "id": 1871,
+        "name": "Kota Bandar Lampung",
+        "province_id": 18,
+        "province": "Lampung",
+        "data": {
+            "2024": 3103631,
+            "2025": 3305367
+        }
+    },
+    {
+        "id": 1872,
+        "name": "Kota Metro",
+        "province_id": 18,
+        "province": "Lampung",
+        "data": {
+            "2024": 2726104,
+            "2025": 2903301
         }
     }
 ]

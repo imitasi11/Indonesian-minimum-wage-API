@@ -1,0 +1,157 @@
+[
+    {
+        "id": 7401,
+        "name": "Kabupaten Kolaka",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2024": 2885964,
+            "2025": 3342626
+        }
+    },
+    {
+        "id": 7402,
+        "name": "Kabupaten Konawe",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7403,
+        "name": "Kabupaten Muna",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7404,
+        "name": "Kabupaten Buton",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7405,
+        "name": "Kabupaten Konawe Selatan",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7406,
+        "name": "Kabupaten Bombana",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7407,
+        "name": "Kabupaten Wakatobi",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7408,
+        "name": "Kabupaten Kolaka Utara",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7409,
+        "name": "Kabupaten Konawe Utara",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2024": 3093730,
+            "2025": 3073551.66
+        }
+    },
+    {
+        "id": 7410,
+        "name": "Kabupaten Buton Utara",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7411,
+        "name": "Kabupaten Kolaka Timur",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7412,
+        "name": "Kabupaten Konawe Kepulauan",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7413,
+        "name": "Kabupaten Muna Barat",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7414,
+        "name": "Kabupaten Buton Tengah",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7415,
+        "name": "Kabupaten Buton Selatan",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    },
+    {
+        "id": 7471,
+        "name": "Kota Kendari",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3314389
+        }
+    },
+    {
+        "id": 7472,
+        "name": "Kota Bau Bau",
+        "province_id": 74,
+        "province": "Sulawesi Tenggara",
+        "data": {
+            "2025": 3073551
+        }
+    }
+]

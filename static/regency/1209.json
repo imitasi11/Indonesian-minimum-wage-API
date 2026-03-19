@@ -1,10 +1,10 @@
 {
     "id": 1209,
-    "name": "Kabupaten Bandung Barat",
+    "name": "Kabupaten Asahan",
     "province_id": 12,
-    "province": "Jawa Barat",
+    "province": "Sumatera Utara",
     "data": {
-        "2024": 3508677,
-        "2025": 3736741
+        "2024": 3066580,
+        "2025": 3265908
     }
 }

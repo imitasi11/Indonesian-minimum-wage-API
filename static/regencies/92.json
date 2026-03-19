@@ -1,0 +1,71 @@
+[
+    {
+        "id": 9202,
+        "name": "Kabupaten Manokwari",
+        "province_id": 92,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 9203,
+        "name": "Kabupaten Fak-fak",
+        "province_id": 92,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3282000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 9206,
+        "name": "Kabupaten Teluk Bintuni",
+        "province_id": 92,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 9207,
+        "name": "Kabupaten Teluk Wondama",
+        "province_id": 92,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 9208,
+        "name": "Kabupaten Kaimana",
+        "province_id": 92,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 9211,
+        "name": "Kabupaten Manokwari Selatan",
+        "province_id": 92,
+        "province": "Papua Barat",
+        "data": {
+            "2024": 3393000,
+            "2025": 3615000
+        }
+    },
+    {
+        "id": 9212,
+        "name": "Kabupaten Pegunungan Arfak",
+        "province_id": 92,
+        "province": "Papua Barat",
+        "data": {
+            "2025": 3615000
+        }
+    }
+]

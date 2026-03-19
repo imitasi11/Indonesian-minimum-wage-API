@@ -1,92 +1,82 @@
 [
     {
         "id": 3401,
-        "name": "Kabupaten Biak Numfor",
+        "name": "Kabupaten Kulonprogo",
         "province_id": 34,
-        "province": "Papua",
+        "province": "DI. Yogyakarta",
         "data": {
-            "2024": 4024270,
-            "2025": 4285850
+            "2018": 1493250,
+            "2019": 1613200,
+            "2020": 1750500,
+            "2021": 1770000,
+            "2022": 1904275,
+            "2023": 2050447,
+            "2024": 2207737,
+            "2025": 2351239
         }
     },
     {
         "id": 3402,
-        "name": "Kabupaten Jayapura",
+        "name": "Kabupaten Bantul",
         "province_id": 34,
-        "province": "Papua",
+        "province": "DI. Yogyakarta",
         "data": {
-            "2024": 4024270,
-            "2025": 4285850
+            "2018": 1572150,
+            "2019": 1649800,
+            "2020": 1790500,
+            "2021": 1805000,
+            "2022": 1916848,
+            "2023": 2066439,
+            "2024": 2216463,
+            "2025": 2360533
         }
     },
     {
         "id": 3403,
-        "name": "Kabupaten Keerom",
+        "name": "Kabupaten Gunungkidul",
         "province_id": 34,
-        "province": "Papua",
+        "province": "DI. Yogyakarta",
         "data": {
-            "2024": 4024270,
-            "2025": 4285850
+            "2018": 1454200,
+            "2019": 1571000,
+            "2020": 1705000,
+            "2021": 1842460,
+            "2022": 1900000,
+            "2023": 2049266,
+            "2024": 2188041,
+            "2025": 2330263
         }
     },
     {
         "id": 3404,
-        "name": "Kabupaten Kepulauan Yapen",
+        "name": "Kabupaten Sleman",
         "province_id": 34,
-        "province": "Papua",
+        "province": "DI. Yogyakarta",
         "data": {
-            "2024": 4024270,
-            "2025": 4285850
+            "2018": 1574550,
+            "2019": 1701000,
+            "2020": 1846000,
+            "2021": 1903500,
+            "2022": 2001000,
+            "2023": 2159519,
+            "2024": 2315976,
+            "2025": 2466514
         }
     },
     {
-        "id": 3405,
-        "name": "Kabupaten Mamberamo Raya",
+        "id": 3471,
+        "name": "Kota Yogyakarta",
         "province_id": 34,
-        "province": "Papua",
+        "province": "DI. Yogyakarta",
         "data": {
-            "2024": 4024270,
-            "2025": 4285850
-        }
-    },
-    {
-        "id": 3406,
-        "name": "Kabupaten Sarmi",
-        "province_id": 34,
-        "province": "Papua",
-        "data": {
-            "2024": 4024270,
-            "2025": 4285850
-        }
-    },
-    {
-        "id": 3407,
-        "name": "Kabupaten Supiori",
-        "province_id": 34,
-        "province": "Papua",
-        "data": {
-            "2024": 4024270,
-            "2025": 4285850
-        }
-    },
-    {
-        "id": 3408,
-        "name": "Kabupaten Waropen",
-        "province_id": 34,
-        "province": "Papua",
-        "data": {
-            "2024": 4024270,
-            "2025": 4285850
-        }
-    },
-    {
-        "id": 3409,
-        "name": "Kota Jayapura",
-        "province_id": 34,
-        "province": "Papua",
-        "data": {
-            "2024": 4024270,
-            "2025": 4285850
+            "2018": 1709150,
+            "2019": 1848400,
+            "2020": 2004000,
+            "2021": 2069530,
+            "2022": 2153970,
+            "2023": 2324776,
+            "2024": 2492997,
+            "2025": 2655041
         }
     }
 ]

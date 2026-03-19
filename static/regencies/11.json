@@ -1,68 +1,232 @@
 [
     {
         "id": 1101,
-        "name": "Kepulauan Seribu",
+        "name": "Kabupaten Aceh Selatan",
         "province_id": 11,
-        "province": "DKI Jakarta",
+        "province": "Aceh",
         "data": {
-            "2023": 4901798,
-            "2024": 5067381,
-            "2025": 5396761
+            "2024": 3413666,
+            "2025": 3685616
         }
     },
     {
         "id": 1102,
-        "name": "Jakarta Barat",
+        "name": "Kabupaten Aceh Tenggara",
         "province_id": 11,
-        "province": "DKI Jakarta",
+        "province": "Aceh",
         "data": {
-            "2023": 4901798,
-            "2024": 5067381,
-            "2025": 5396761
+            "2024": 3413666,
+            "2025": 3685616
         }
     },
     {
         "id": 1103,
-        "name": "Jakarta Pusat",
+        "name": "Kabupaten Aceh Timur",
         "province_id": 11,
-        "province": "DKI Jakarta",
+        "province": "Aceh",
         "data": {
-            "2023": 4901798,
-            "2024": 5067381,
-            "2025": 5396761
+            "2024": 3413666,
+            "2025": 3685616
         }
     },
     {
         "id": 1104,
-        "name": "Jakarta Selatan",
+        "name": "Kabupaten Aceh Tengah",
         "province_id": 11,
-        "province": "DKI Jakarta",
+        "province": "Aceh",
         "data": {
-            "2023": 4901798,
-            "2024": 5067381,
-            "2025": 5396761
+            "2024": 3413666,
+            "2025": 3685616
         }
     },
     {
         "id": 1105,
-        "name": "Jakarta Timur",
+        "name": "Kabupaten Aceh Barat",
         "province_id": 11,
-        "province": "DKI Jakarta",
+        "province": "Aceh",
         "data": {
-            "2023": 4901798,
-            "2024": 5067381,
-            "2025": 5396761
+            "2024": 3413666,
+            "2025": 3685616
         }
     },
     {
         "id": 1106,
-        "name": "Jakarta Utara",
+        "name": "Kabupaten Aceh Besar",
         "province_id": 11,
-        "province": "DKI Jakarta",
+        "province": "Aceh",
         "data": {
-            "2023": 4901798,
-            "2024": 5067381,
-            "2025": 5396761
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1107,
+        "name": "Kabupaten Pidie",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1108,
+        "name": "Kabupaten Aceh Utara",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1109,
+        "name": "Kabupaten Simeulue",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1110,
+        "name": "Kabupaten Aceh Singkil",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3717948
+        }
+    },
+    {
+        "id": 1111,
+        "name": "Kabupaten Bireuen",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1112,
+        "name": "Kabupaten Aceh Barat Daya",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1113,
+        "name": "Kabupaten Gayo Lues",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1114,
+        "name": "Kabupaten Aceh Jaya",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1115,
+        "name": "Kabupaten Nagan Raya",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1116,
+        "name": "Kabupaten Aceh Tamiang",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3456603,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1117,
+        "name": "Kabupaten Bener Meriah",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1118,
+        "name": "Kabupaten Pidie Jaya",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1171,
+        "name": "Kota Banda Aceh",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3540555,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1172,
+        "name": "Kota Sabang",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1173,
+        "name": "Kota Lhokseumawe",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1174,
+        "name": "Kota Langsa",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
+        }
+    },
+    {
+        "id": 1175,
+        "name": "Kota Subulussalam",
+        "province_id": 11,
+        "province": "Aceh",
+        "data": {
+            "2024": 3413666,
+            "2025": 3685616
         }
     }
 ]

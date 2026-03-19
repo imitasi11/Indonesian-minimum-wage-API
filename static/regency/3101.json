@@ -1,9 +1,11 @@
 {
     "id": 3101,
-    "name": "Kota Ambon",
+    "name": "Kabupaten Kepulauan Seribu",
     "province_id": 31,
-    "province": "Maluku",
+    "province": "DKI Jakarta",
     "data": {
-        "2025": 3185733
+        "2023": 4901798,
+        "2024": 5067381,
+        "2025": 5396761
     }
 }

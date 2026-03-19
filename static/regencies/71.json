@@ -1,0 +1,137 @@
+[
+    {
+        "id": 7101,
+        "name": "Kabupaten Bolaang Mongondow",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7102,
+        "name": "Kabupaten Minahasa",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7103,
+        "name": "Kabupaten Kepulauan Sangihe",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7104,
+        "name": "Kabupaten Kepulauan Talaud",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7105,
+        "name": "Kabupaten Minahasa Selatan",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7106,
+        "name": "Kabupaten Minahasa Utara",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7107,
+        "name": "Kabupaten Minahasa Tenggara",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7108,
+        "name": "Kabupaten Bolaang Mongondow Utara",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7109,
+        "name": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7110,
+        "name": "Kabupaten Bolaang Mongondow Timur",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7111,
+        "name": "Kabupaten Bolaang Mongondow Selatan",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7171,
+        "name": "Kota Manado",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3824264
+        }
+    },
+    {
+        "id": 7172,
+        "name": "Kota Bitung",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7173,
+        "name": "Kota Tomohon",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    },
+    {
+        "id": 7174,
+        "name": "Kota Kotamobagu",
+        "province_id": 71,
+        "province": "Sulawesi Utara",
+        "data": {
+            "2025": 3775425
+        }
+    }
+]

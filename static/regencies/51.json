@@ -1,0 +1,100 @@
+[
+    {
+        "id": 5101,
+        "name": "Kabupaten Jembrana",
+        "province_id": 51,
+        "province": "Bali",
+        "data": {
+            "2023": 2738698,
+            "2024": 2813672,
+            "2025": 2996561
+        }
+    },
+    {
+        "id": 5102,
+        "name": "Kabupaten Tabanan",
+        "province_id": 51,
+        "province": "Bali",
+        "data": {
+            "2023": 2824613,
+            "2024": 2913165,
+            "2025": 3102520
+        }
+    },
+    {
+        "id": 5103,
+        "name": "Kabupaten Badung",
+        "province_id": 51,
+        "province": "Bali",
+        "data": {
+            "2023": 3163837,
+            "2024": 3318628,
+            "2025": 3534338
+        }
+    },
+    {
+        "id": 5104,
+        "name": "Kabupaten Gianyar",
+        "province_id": 51,
+        "province": "Bali",
+        "data": {
+            "2023": 2837680,
+            "2024": 2928713,
+            "2025": 3119080
+        }
+    },
+    {
+        "id": 5105,
+        "name": "Kabupaten Klungkung",
+        "province_id": 51,
+        "province": "Bali",
+        "data": {
+            "2023": 2714642,
+            "2024": 2813672,
+            "2025": 2996561
+        }
+    },
+    {
+        "id": 5106,
+        "name": "Kabupaten Bangli",
+        "province_id": 51,
+        "province": "Bali",
+        "data": {
+            "2024": 2813672,
+            "2025": 2996561
+        }
+    },
+    {
+        "id": 5107,
+        "name": "Kabupaten Karangasem",
+        "province_id": 51,
+        "province": "Bali",
+        "data": {
+            "2023": 2730264,
+            "2024": 2813672,
+            "2025": 2996561
+        }
+    },
+    {
+        "id": 5108,
+        "name": "Kabupaten Buleleng",
+        "province_id": 51,
+        "province": "Bali",
+        "data": {
+            "2023": 2716206,
+            "2024": 2813672,
+            "2025": 2996561
+        }
+    },
+    {
+        "id": 5171,
+        "name": "Kota Denpasar",
+        "province_id": 51,
+        "province": "Bali",
+        "data": {
+            "2023": 2994646,
+            "2024": 3096823,
+            "2025": 3298116
+        }
+    }
+]

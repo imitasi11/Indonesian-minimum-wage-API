@@ -1,10 +1,16 @@
 {
     "id": 2104,
-    "name": "Kabupaten Barito Selatan",
+    "name": "Kabupaten Lingga",
     "province_id": 21,
-    "province": "Kalimantan Tengah",
+    "province": "Kepulauan Riau",
     "data": {
-        "2024": 3595397,
-        "2025": 3829601
+        "2018": 2590116,
+        "2019": 2798102,
+        "2020": 3036220,
+        "2021": 3036220,
+        "2022": 3050172,
+        "2023": 3279194,
+        "2024": 3402492,
+        "2025": 3623654
     }
 }

@@ -1,0 +1,75 @@
+[
+    {
+        "id": 9501,
+        "name": "Kabupaten Jayawijaya",
+        "province_id": 95,
+        "province": "Papua Pegunungan",
+        "data": {
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9502,
+        "name": "Kabupaten Pegunungan Bintang",
+        "province_id": 95,
+        "province": "Papua Pegunungan",
+        "data": {
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9503,
+        "name": "Kabupaten Yahukimo",
+        "province_id": 95,
+        "province": "Papua Pegunungan",
+        "data": {
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9504,
+        "name": "Kabupaten Tolikara",
+        "province_id": 95,
+        "province": "Papua Pegunungan",
+        "data": {
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9505,
+        "name": "Kabupaten Mamberamo Tengah",
+        "province_id": 95,
+        "province": "Papua Pegunungan",
+        "data": {
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9506,
+        "name": "Kabupaten Yalimo",
+        "province_id": 95,
+        "province": "Papua Pegunungan",
+        "data": {
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9507,
+        "name": "Kabupaten Lanny Jaya",
+        "province_id": 95,
+        "province": "Papua Pegunungan",
+        "data": {
+            "2025": 4285850
+        }
+    },
+    {
+        "id": 9508,
+        "name": "Kabupaten Nduga",
+        "province_id": 95,
+        "province": "Papua Pegunungan",
+        "data": {
+            "2024": 3393000,
+            "2025": 4285850
+        }
+    }
+]

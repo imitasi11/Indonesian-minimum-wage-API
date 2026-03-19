@@ -1,0 +1,121 @@
+[
+    {
+        "id": 7201,
+        "name": "Kabupaten Banggai",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 2947722
+        }
+    },
+    {
+        "id": 7202,
+        "name": "Kabupaten Poso",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 3057161
+        }
+    },
+    {
+        "id": 7203,
+        "name": "Kabupaten Donggala",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 2915000
+        }
+    },
+    {
+        "id": 7204,
+        "name": "Kabupaten Toli-Toli",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 2915000
+        }
+    },
+    {
+        "id": 7205,
+        "name": "Kabupaten Buol",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 3002130
+        }
+    },
+    {
+        "id": 7206,
+        "name": "Kabupaten Morowali",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 3716125
+        }
+    },
+    {
+        "id": 7207,
+        "name": "Kabupaten Banggai Kepulauan",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 2915000
+        }
+    },
+    {
+        "id": 7208,
+        "name": "Kabupaten Parigi Moutong",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 2915000
+        }
+    },
+    {
+        "id": 7209,
+        "name": "Kabupaten Tojo Una-Una",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 2915000
+        }
+    },
+    {
+        "id": 7210,
+        "name": "Kabupaten Sigi",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 2915000
+        }
+    },
+    {
+        "id": 7211,
+        "name": "Kabupaten Banggai Laut",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 2915000
+        }
+    },
+    {
+        "id": 7212,
+        "name": "Kabupaten Morowali Utara",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2025": 3925456
+        }
+    },
+    {
+        "id": 7271,
+        "name": "Kota Palu",
+        "province_id": 72,
+        "province": "Sulawesi Tengah",
+        "data": {
+            "2023": 3384876,
+            "2024": 3434298,
+            "2025": 3386588
+        }
+    }
+]

@@ -1,142 +1,114 @@
 [
     {
         "id": 2101,
-        "name": "Kota Palangka Raya",
+        "name": "Kabupaten Bintan",
         "province_id": 21,
-        "province": "Kalimantan Tengah",
+        "province": "Kepulauan Riau",
         "data": {
-            "2024": 3310004,
-            "2025": 3525154
+            "2018": 3112618,
+            "2019": 3362561,
+            "2020": 3648714,
+            "2021": 3648714,
+            "2022": 3648714,
+            "2023": 3899015,
+            "2024": 3950050,
+            "2025": 4207762
         }
     },
     {
         "id": 2102,
-        "name": "Kabupaten Barito Timur",
+        "name": "Kabupaten Karimun",
         "province_id": 21,
-        "province": "Kalimantan Tengah",
+        "province": "Kepulauan Riau",
         "data": {
-            "2024": 3285165,
-            "2025": 3498705
+            "2018": 2845766,
+            "2019": 3074281,
+            "2020": 3335902,
+            "2021": 3335902,
+            "2022": 3348765,
+            "2023": 3592019,
+            "2024": 3715000,
+            "2025": 3956475
         }
     },
     {
         "id": 2103,
-        "name": "Kabupaten Barito Utara",
+        "name": "Kabupaten Natuna",
         "province_id": 21,
-        "province": "Kalimantan Tengah",
+        "province": "Kepulauan Riau",
         "data": {
-            "2024": 3662312,
-            "2025": 3900362
+            "2018": 2650475,
+            "2019": 2863308,
+            "2020": 3106975,
+            "2021": 3106975,
+            "2022": 3125272,
+            "2023": 3337603,
+            "2024": 3406575,
+            "2025": 3628002
         }
     },
     {
         "id": 2104,
-        "name": "Kabupaten Barito Selatan",
+        "name": "Kabupaten Lingga",
         "province_id": 21,
-        "province": "Kalimantan Tengah",
+        "province": "Kepulauan Riau",
         "data": {
-            "2024": 3595397,
-            "2025": 3829601
+            "2018": 2590116,
+            "2019": 2798102,
+            "2020": 3036220,
+            "2021": 3036220,
+            "2022": 3050172,
+            "2023": 3279194,
+            "2024": 3402492,
+            "2025": 3623654
         }
     },
     {
         "id": 2105,
-        "name": "Kabupaten Kapuas",
+        "name": "Kabupaten Kepulauan Anambas",
         "province_id": 21,
-        "province": "Kalimantan Tengah",
+        "province": "Kepulauan Riau",
         "data": {
-            "2024": 3261700,
-            "2025": 3473711
+            "2018": 2932925,
+            "2019": 3168439,
+            "2020": 3501441,
+            "2021": 3501441,
+            "2022": 3518249,
+            "2023": 3757560,
+            "2024": 3835605,
+            "2025": 4084919
         }
     },
     {
-        "id": 2106,
-        "name": "Kabupaten Katingan",
+        "id": 2171,
+        "name": "Kota Batam",
         "province_id": 21,
-        "province": "Kalimantan Tengah",
+        "province": "Kepulauan Riau",
         "data": {
-            "2024": 3343905,
-            "2025": 3561259
+            "2018": 3523427,
+            "2019": 3806358,
+            "2020": 4130279,
+            "2021": 4150930,
+            "2022": 4186359,
+            "2023": 4500440,
+            "2024": 4685050,
+            "2025": 4989600
         }
     },
     {
-        "id": 2107,
-        "name": "Kabupaten Kotawaringin Barat",
+        "id": 2172,
+        "name": "Kota Tanjungpinang",
         "province_id": 21,
-        "province": "Kalimantan Tengah",
+        "province": "Kepulauan Riau",
         "data": {
-            "2024": 3474797,
-            "2025": 3700659
-        }
-    },
-    {
-        "id": 2108,
-        "name": "Kabupaten Kotawaringin Timur",
-        "province_id": 21,
-        "province": "Kalimantan Tengah",
-        "data": {
-            "2024": 3341890,
-            "2025": 3558623
-        }
-    },
-    {
-        "id": 2109,
-        "name": "Kabupaten Lamandau",
-        "province_id": 21,
-        "province": "Kalimantan Tengah",
-        "data": {
-            "2024": 3550532,
-            "2025": 3781812
-        }
-    },
-    {
-        "id": 2110,
-        "name": "Kabupaten Murung Raya",
-        "province_id": 21,
-        "province": "Kalimantan Tengah",
-        "data": {
-            "2024": 3562370,
-            "2025": 3793904
-        }
-    },
-    {
-        "id": 2111,
-        "name": "Kabupaten Pulang Pisau",
-        "province_id": 21,
-        "province": "Kalimantan Tengah",
-        "data": {
-            "2024": 3268756,
-            "2025": 3481226
-        }
-    },
-    {
-        "id": 2112,
-        "name": "Kabupaten Seruyan",
-        "province_id": 21,
-        "province": "Kalimantan Tengah",
-        "data": {
-            "2024": 3634451,
-            "2025": 3870690
-        }
-    },
-    {
-        "id": 2113,
-        "name": "Kabupaten Sukamara",
-        "province_id": 21,
-        "province": "Kalimantan Tengah",
-        "data": {
-            "2024": 3489521,
-            "2025": 3716344
-        }
-    },
-    {
-        "id": 2114,
-        "name": "Kabupaten Gunung Mas",
-        "province_id": 21,
-        "province": "Kalimantan Tengah",
-        "data": {
-            "2024": 3328175,
-            "2025": 3543471
+            "2018": 2565187,
+            "2019": 2771172,
+            "2020": 3006999,
+            "2021": 3013012,
+            "2022": 3053619,
+            "2023": 3279194,
+            "2024": 3402492,
+            "2025": 3623654
         }
     }
 ]

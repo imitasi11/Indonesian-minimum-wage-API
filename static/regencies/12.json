@@ -1,272 +1,332 @@
 [
     {
         "id": 1201,
-        "name": "Kota Bekasi",
+        "name": "Kabupaten Tapanuli Tengah",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 5343430,
-            "2025": 5690752
+            "2024": 3044435,
+            "2025": 3242323
         }
     },
     {
         "id": 1202,
-        "name": "Kabupaten Karawang",
+        "name": "Kabupaten Tapanuli Utara",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 5257834,
-            "2025": 5599593
+            "2024": 2833474,
+            "2025": 3017649
         }
     },
     {
         "id": 1203,
-        "name": "Kabupaten Bekasi",
+        "name": "Kabupaten Tapanuli Selatan",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 5219263,
-            "2025": 5558515
+            "2024": 3105469,
+            "2025": 3307324
         }
     },
     {
         "id": 1204,
-        "name": "Kota Depok",
+        "name": "Kabupaten Nias",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 4878612,
-            "2025": 5195721
+            "2024": 2809915,
+            "2025": 2992559
         }
     },
     {
         "id": 1205,
-        "name": "Kota Bogor",
+        "name": "Kabupaten Langkat",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 4813988,
-            "2025": 5126897
+            "2024": 2943343,
+            "2025": 3134660
         }
     },
     {
         "id": 1206,
-        "name": "Kabupaten Bogor",
+        "name": "Kabupaten Karo",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 4579541,
-            "2025": 4877211
+            "2024": 3358951,
+            "2025": 3577282
         }
     },
     {
         "id": 1207,
-        "name": "Kota Bandung",
+        "name": "Kabupaten Deli Serdang",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 4209309,
-            "2025": 4482914
+            "2024": 3505076,
+            "2025": 3732906
         }
     },
     {
         "id": 1208,
-        "name": "Kabupaten Bandung",
+        "name": "Kabupaten Simalungun",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 3527967,
-            "2025": 3757284
+            "2024": 2900330,
+            "2025": 3088851
         }
     },
     {
         "id": 1209,
-        "name": "Kabupaten Bandung Barat",
+        "name": "Kabupaten Asahan",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 3508677,
-            "2025": 3736741
+            "2024": 3066580,
+            "2025": 3265908
         }
     },
     {
         "id": 1210,
-        "name": "Kabupaten Purwakarta",
+        "name": "Kabupaten Labuhanbatu",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 4499768,
-            "2025": 4792252
+            "2024": 3228339,
+            "2025": 3438181
         }
     },
     {
         "id": 1211,
-        "name": "Kabupaten Subang",
+        "name": "Kabupaten Dairi",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 3294485,
-            "2025": 3508626
+            "2024": 2809915,
+            "2025": 2992559
         }
     },
     {
         "id": 1212,
-        "name": "Kota Cimahi",
+        "name": "Kabupaten Toba",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 3627880,
-            "2025": 3863692
+            "2024": 2959020,
+            "2025": 3151356
         }
     },
     {
         "id": 1213,
-        "name": "Kabupaten Sumedang",
+        "name": "Mandailing Natal",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 3504308,
-            "2025": 3732088
+            "2024": 2911736,
+            "2025": 3100999
         }
     },
     {
         "id": 1214,
-        "name": "Kabupaten Cianjur",
+        "name": "Kabupaten Nias Selatan",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2915102,
-            "2025": 3104583
+            "2024": 2809915,
+            "2025": 2992559
         }
     },
     {
         "id": 1215,
-        "name": "Kota Sukabumi",
+        "name": "Kabupaten Pakpak Bharat",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2834399,
-            "2025": 3018634
+            "2024": 2809915,
+            "2025": 2992559
         }
     },
     {
         "id": 1216,
-        "name": "Kabupaten Sukabumi",
+        "name": "Kabupaten Humbang Hasundutan",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 3384491,
-            "2025": 3604482
+            "2024": 2809915,
+            "2025": 2992559
         }
     },
     {
         "id": 1217,
-        "name": "Kota Cirebon",
+        "name": "Kabupaten Samosir",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2533038,
-            "2025": 2697685
+            "2024": 2809915,
+            "2025": 2992559
         }
     },
     {
         "id": 1218,
-        "name": "Kabupaten Cirebon",
+        "name": "Kabupaten Serdang Bedagai",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2517730,
-            "2025": 2681382
+            "2024": 3111250,
+            "2025": 3313500
         }
     },
     {
         "id": 1219,
-        "name": "Kabupaten Indramayu",
+        "name": "Kabupaten Batubara",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2623697,
-            "2025": 2794237
+            "2024": 3451671,
+            "2025": 3676000
         }
     },
     {
         "id": 1220,
-        "name": "Kabupaten Majalengka",
+        "name": "Kabupaten Padang Lawas Utara",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2257871,
-            "2025": 2404632
+            "2024": 2809915,
+            "2025": 2992559
         }
     },
     {
         "id": 1221,
-        "name": "Kabupaten Kuningan",
+        "name": "Kabupaten Padang Lawas",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2074666,
-            "2025": 2209519
+            "2024": 3000855,
+            "2025": 3195910
         }
     },
     {
         "id": 1222,
-        "name": "Kota Tasikmalaya",
+        "name": "Kabupaten Labuhanbatu Selatan",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2630951,
-            "2025": 2801962
+            "2024": 3197168,
+            "2025": 3404984
         }
     },
     {
         "id": 1223,
-        "name": "Kabupaten Tasikmalaya",
+        "name": "Kabupaten Labuhanbatu Utara",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2535204,
-            "2025": 2699992
+            "2024": 3124527,
+            "2025": 3327621
         }
     },
     {
         "id": 1224,
-        "name": "Kabupaten Garut",
+        "name": "Kabupaten Nias Utara",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2186437,
-            "2025": 2328555
+            "2024": 2809915,
+            "2025": 2992559
         }
     },
     {
         "id": 1225,
-        "name": "Kabupaten Ciamis",
+        "name": "Kabupaten Nias Barat",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2089464,
-            "2025": 2225279
+            "2024": 2809915,
+            "2025": 2992559
         }
     },
     {
-        "id": 1226,
-        "name": "Kabupaten Pangandaran",
+        "id": 1271,
+        "name": "Kota Medan",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2086126,
-            "2025": 2221724
+            "2024": 3769082,
+            "2025": 4014072
         }
     },
     {
-        "id": 1227,
-        "name": "Kota Banjar",
+        "id": 1272,
+        "name": "Kota Pematangsiantar",
         "province_id": 12,
-        "province": "Jawa Barat",
+        "province": "Sumatera Utara",
         "data": {
-            "2024": 2070192,
-            "2025": 2204754
+            "2024": 2809915,
+            "2025": 2992559
+        }
+    },
+    {
+        "id": 1273,
+        "name": "Kota Sibolga",
+        "province_id": 12,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3211031,
+            "2025": 3419748
+        }
+    },
+    {
+        "id": 1274,
+        "name": "Kota Tanjung Balai",
+        "province_id": 12,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 3046579,
+            "2025": 3244606
+        }
+    },
+    {
+        "id": 1275,
+        "name": "Kota Binjai",
+        "province_id": 12,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2887667,
+            "2025": 3075365
+        }
+    },
+    {
+        "id": 1276,
+        "name": "Kota Tebing Tinggi",
+        "province_id": 12,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2822726,
+            "2025": 3006203
+        }
+    },
+    {
+        "id": 1277,
+        "name": "Kota Padang Sidempuan",
+        "province_id": 12,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2974869,
+            "2025": 3168235
+        }
+    },
+    {
+        "id": 1278,
+        "name": "Kota Gunungsitoli",
+        "province_id": 12,
+        "province": "Sumatera Utara",
+        "data": {
+            "2024": 2809915,
+            "2025": 2992559
         }
     }
 ]

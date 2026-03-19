@@ -1,11 +1,11 @@
 {
     "id": 1707,
-    "name": "Kab. Karangasem",
+    "name": "Kabupaten Lebong",
     "province_id": 17,
-    "province": "Bali",
+    "province": "Bengkulu",
     "data": {
-        "2023": 2730264,
-        "2024": 2813672,
-        "2025": 2996561
+        "2023": 2418280,
+        "2024": 2507079,
+        "2025": 2670039
     }
 }

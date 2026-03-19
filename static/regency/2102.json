@@ -1,10 +1,16 @@
 {
     "id": 2102,
-    "name": "Kabupaten Barito Timur",
+    "name": "Kabupaten Karimun",
     "province_id": 21,
-    "province": "Kalimantan Tengah",
+    "province": "Kepulauan Riau",
     "data": {
-        "2024": 3285165,
-        "2025": 3498705
+        "2018": 2845766,
+        "2019": 3074281,
+        "2020": 3335902,
+        "2021": 3335902,
+        "2022": 3348765,
+        "2023": 3592019,
+        "2024": 3715000,
+        "2025": 3956475
     }
 }
